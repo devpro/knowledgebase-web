@@ -1,0 +1,12 @@
+---
+applications:
+  -
+    name: kb-web
+    memory: 64M
+    path: public
+    buildpacks:
+      - staticfile_buildpack
+    routes:
+      - route: knowledge-base-bertrand-thomas.cfapps.io
+    env:
+      FORCE_HTTPS: true

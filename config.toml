@@ -1,0 +1,4 @@
+baseURL = "https://knowledge-base-bertrand-thomas.cfapps.io/"
+languageCode = "en-us"
+title = "Bertrand Thomas Knowledge Base"
+theme = "ananke"
