@@ -1,4 +1,11 @@
 baseURL = "https://knowledge-base-bertrand-thomas.cfapps.io/"
 languageCode = "en-us"
 title = "Bertrand Thomas Knowledge Base"
-theme = "ananke"
+theme = "hugo-theme-learn"
+
+[params]
+# Change default color scheme with a variant one. Can be "red", "blue", "green".
+themeVariant = "blue"
+
+[outputs]
+home = [ "HTML", "RSS", "JSON" ]

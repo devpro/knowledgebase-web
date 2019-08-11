@@ -14,6 +14,10 @@ This website has been built thanks to [Hugo](https://gohugo.io/).
 - Get the source code through `git clone --recurse-submodules`
 - Run locally with `hugo server -D`
 
+### Known issues
+
+- If Git is saying one theme submodule is in dirty state run `git submodule foreach --recursive git checkout .` (see [the discussion on stackoverflow](https://stackoverflow.com/questions/4873980/git-diff-says-subproject-is-dirty))
+
 ## Deploy
 
 The website [knowledge-base-bertrand-thomas.cfapps.io](https://knowledge-base-bertrand-thomas.cfapps.io/) is hosted freely by [Pivotal Web Service PWS](https://run.pivotal.io/).
