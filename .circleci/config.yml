@@ -1,0 +1,31 @@
+version: 2
+jobs:
+  build:
+    docker:
+      - image: cibuilds/hugo:latest
+
+    steps:
+      - checkout
+      - run:
+          name: Install git client
+          command: apk update && apk add git
+      - run:
+          name: Load submodule
+          command: git clone --recurse-submodules
+      - run:
+          name: Build Hugo static website
+          command: HUGO_ENV=production hugo
+      - run:
+          name: Install CF CLI
+          command: |
+            apt-get update
+            apt-get -y install apt-transport-https ca-certificates
+            wget -q -O - https://packages.cloudfoundry.org/debian/cli.cloudfoundry.org.key | apt-key add -
+            echo "deb https://packages.cloudfoundry.org/debian stable main" | tee /etc/apt/sources.list.d/cloudfoundry-cli.list
+            apt-get update
+            apt-get install cf-cli
+      - run:
+          name: Deploy
+          command: |
+            cf login -a "$CF_API" -u "$CF_USERNAME" -p "$CF_PASSWORD" -o "$CF_ORG" -s "$CF_SPACE_PROD"
+            cf push
