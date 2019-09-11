@@ -1,5 +1,7 @@
 # Knowledge Base
 
+[![CircleCI](https://circleci.com/gh/devpro/knowledgebase-web.svg?style=svg)](https://circleci.com/gh/devpro/knowledgebase-web)
+
 ## Contribute
 
 This website has been built thanks to [Hugo](https://gohugo.io/).
@@ -29,4 +31,4 @@ The website [knowledge-base-bertrand-thomas.cfapps.io](https://knowledge-base-be
 ### Deployment procedure
 
 - Create the static content by running `HUGO_ENV=production hugo` (only not draft posts will be published!)
-- Deploy very easily through Cloud Foundry CLI by running `cf push`
+- Deploy very easily through Cloud Foundry CLI by running `cf push` (once logged in with `cf login -a "https://api.run.pivotal.io" -u "myusername" -p "mypassword" -o "myorg" -s "myspace"`)
