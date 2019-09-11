@@ -11,7 +11,7 @@ jobs:
           command: apk update && apk add git
       - run:
           name: Load submodule
-          command: git clone --recurse-submodules
+          command: git submodule sync && git submodule update --init
       - run:
           name: Build Hugo static website
           command: HUGO_ENV=production hugo
