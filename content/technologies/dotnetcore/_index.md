@@ -1,6 +1,6 @@
 ---
 title: ".NET Core"
-date: 2019-08-09T23:27:09+02:00
+date: 2019-08-09T23:27:59+02:00
 draft: false
 ---
 
@@ -8,13 +8,17 @@ draft: false
 
 **Tags**: .NET Core, OpenSource, CrossPlatform
 
+## Content
+
+{{% children %}}
+
 ## Learning
 
 [.NET Core Roadmap](https://github.com/dotnet/core/blob/master/roadmap.md#upcoming-ship-dates)
 
 - [Learning about .NET Core futures by poking around at David Fowler's GitHub](https://www.hanselman.com/blog/LearningAboutNETCoreFuturesByPokingAroundAtDavidFowlersGitHub.aspx)
 
-## Features
+### Features
 
 - [Configuration](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration)
 
