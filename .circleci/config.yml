@@ -18,12 +18,13 @@ jobs:
       - run:
           name: Install CF CLI
           command: |
-            apt-get update
-            apt-get -y install apt-transport-https ca-certificates
-            wget -q -O - https://packages.cloudfoundry.org/debian/cli.cloudfoundry.org.key | apt-key add -
-            echo "deb https://packages.cloudfoundry.org/debian stable main" | tee /etc/apt/sources.list.d/cloudfoundry-cli.list
-            apt-get update
-            apt-get install cf-cli
+            apk add wget
+            wget https://cli.run.pivotal.io/stable?release=linux64-binary
+            mv stable?release=linux64-binary /tmp/cf-cli.tgz
+            mkdir -p /usr/local/bin
+            tar -xzf /tmp/cf-cli.tgz -C /usr/local/bin
+            cf --version
+            rm -f /tmp/cf-cli.tgz
       - run:
           name: Deploy
           command: |
