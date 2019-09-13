@@ -5,15 +5,17 @@ draft: false
 weight: 20
 ---
 
-**Official**: [mongodb.com](https://www.mongodb.com/)
+**Official**: [mongodb.com](https://www.mongodb.com/), [GitHub](https://github.com/mongodb), [Twitter](https://twitter.com/MongoDB)
 
-**Tags**: NoSQL, DocumentModel
+**Tags**: NoSQL, DocumentModel, OpenSource
 
 ## Content
 
 {{% children sort="Name" %}}
 
 ## Presentation
+
+![image.png](/images/.attachments/image-10d40ef9-5b8e-400b-b600-602cbb49d98b.png)
 
 ### News
 

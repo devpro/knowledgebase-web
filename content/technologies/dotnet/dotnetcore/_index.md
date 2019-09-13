@@ -5,17 +5,15 @@ draft: false
 weight: 1
 ---
 
-**Official**: [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/)
+**Official**: [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/) ([Roadmap](https://github.com/dotnet/core/blob/master/roadmap.md#upcoming-ship-dates))
 
-**Tags**: .NET Core, OpenSource, CrossPlatform
+**Tags**: Microsoft, OpenSource, CrossPlatform
 
 ## Content
 
-{{% children %}}
+{{% children sort="Name" %}}
 
 ## Learning
-
-[.NET Core Roadmap](https://github.com/dotnet/core/blob/master/roadmap.md#upcoming-ship-dates)
 
 - [Learning about .NET Core futures by poking around at David Fowler's GitHub](https://www.hanselman.com/blog/LearningAboutNETCoreFuturesByPokingAroundAtDavidFowlersGitHub.aspx)
 
@@ -23,7 +21,7 @@ weight: 1
 
 - [Configuration](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration)
 
-## Usecases
+## Recipes
 
 ### Scripting
 
