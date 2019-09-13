@@ -1,5 +1,5 @@
 ---
-title: "Aspnetcore"
+title: "ASP.NET Core"
 date: 2019-09-13T16:07:03+02:00
 draft: false
 ---

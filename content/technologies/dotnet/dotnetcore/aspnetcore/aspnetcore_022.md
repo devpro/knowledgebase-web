@@ -1,5 +1,5 @@
 ---
-title: "Aspnetcore_022"
+title: "ASP.NET Core 2.2"
 date: 2019-09-13T16:07:49+02:00
 draft: false
 ---
