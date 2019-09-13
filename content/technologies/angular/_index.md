@@ -7,7 +7,7 @@ weight: 2
 
 **Main**: [angular.io](https://angular.io/) ([API](https://angular.io/api))
 
-**Tags**: SPA, [TypeScript]({{< ref "technologies/typescript  " >}})
+**Tags**: SPA, [TypeScript]({{< ref "technologies/typescript" >}})
 
 ## Content
 
