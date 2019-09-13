@@ -13,19 +13,11 @@ weight: 2
 
 {{% children %}}
 
-## Quickstart
+## Learn
 
-### Tutorials
+### Quickstart
 
 - [angular.io/guide/quickstart](https://angular.io/guide/quickstart)
-- [github.com/devpro/dojo-angular-beginner](https://github.com/devpro/dojo-angular-beginner/blob/master/README.md)
-
-### Tools
-
-- Visual Studio Code
-  - [Using Angular in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/angular-tutorial)
-
-## Learn
 
 ### Training
 
@@ -39,31 +31,17 @@ weight: 2
 
 - [Become a ninja with Angular - Ebook](https://books.ninja-squad.com/angular)
 
+### Tutorials
+
+- [github.com/devpro/dojo-angular-beginner](https://github.com/devpro/dojo-angular-beginner/blob/master/README.md)
+- [web.dev](https://web.dev/angular)
+
+### Tools
+
+- Visual Studio Code
+  - [Using Angular in Visual Studio Code](https://code.visualstudio.com/docs/nodejs/angular-tutorial)
+
 ## Recipes
-
-### Web design
-
-#### Material design
-
-- [Material Design components for Angular](https://material.angular.io/)
-
-#### DataTables
-
-- Option 1: Angular Datatable
-  - [Getting started](https://l-lin.github.io/angular-datatables/#/getting-started)
-
-- Historique de la recherche :
-  - [Angular 5 and jQuery DataTables !](https://medium.com/apprendre-le-web-avec-lior/angular-5-and-jquery-datatables-fd1dd2d81d99)
-  - [10 Best Angular DataTables](https://www.ngdevelop.tech/best-angular-tables/)
-
-#### materialize-css
-
-- Home site: [materializecss.com](https://materializecss.com/getting-started.html)
-- Integration in an Angular project:
-  - Clean and ok: [How to use materialize-css with angular](https://stackoverflow.com/questions/48007665/how-to-use-materialize-css-with-angular)
-  - Didn't work: [How to use MaterializeCSS in Angular 2](https://stackoverflow.com/questions/41937283/how-to-use-materializecss-in-angular-2)
-  - Didn't also work: [stanleyeosakul/angular-travelville](https://github.com/stanleyeosakul/angular-travelville)
-  - Didn't try: [sherweb/ngx-materialize](https://github.com/sherweb/ngx-materialize)
 
 ### CI CD
 
@@ -98,3 +76,31 @@ sonar.typescript.lcov.reportPaths=src/WebApp/ClientApp/coverage/lcov.info
     "tslint-sonarts": "^1.8.0",
   }
 {{< /highlight >}}
+
+### Update
+
+- Follow the procedure given at [update.angular.io](https://update.angular.io/)
+
+### Web design
+
+#### Material design
+
+- [Material Design components for Angular](https://material.angular.io/)
+
+#### DataTables
+
+- Option 1: Angular Datatable
+  - [Getting started](https://l-lin.github.io/angular-datatables/#/getting-started)
+
+- Historique de la recherche :
+  - [Angular 5 and jQuery DataTables !](https://medium.com/apprendre-le-web-avec-lior/angular-5-and-jquery-datatables-fd1dd2d81d99)
+  - [10 Best Angular DataTables](https://www.ngdevelop.tech/best-angular-tables/)
+
+#### materialize-css
+
+- Home site: [materializecss.com](https://materializecss.com/getting-started.html)
+- Integration in an Angular project:
+  - Clean and ok: [How to use materialize-css with angular](https://stackoverflow.com/questions/48007665/how-to-use-materialize-css-with-angular)
+  - Didn't work: [How to use MaterializeCSS in Angular 2](https://stackoverflow.com/questions/41937283/how-to-use-materializecss-in-angular-2)
+  - Didn't also work: [stanleyeosakul/angular-travelville](https://github.com/stanleyeosakul/angular-travelville)
+  - Didn't try: [sherweb/ngx-materialize](https://github.com/sherweb/ngx-materialize)

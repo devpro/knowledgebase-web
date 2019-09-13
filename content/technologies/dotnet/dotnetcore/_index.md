@@ -32,8 +32,15 @@ weight: 1
 - 2019-03-22 [Getting Started with .NET Core and Docker and the Microsoft Container Registry](https://www.hanselman.com/blog/GettingStartedWithNETCoreAndDockerAndTheMicrosoftContainerRegistry.aspx)
 - 2019-03-15 [.NET Core Container Images now Published to Microsoft Container Registry](https://devblogs.microsoft.com/dotnet/net-core-container-images-now-published-to-microsoft-container-registry/)
 - [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker)
+- [Dockerize an ASP.NET Core application](https://docs.docker.com/engine/examples/dotnetcore/)
 - [Scott Hanselman - .NET Core and Docker](https://www.hanselman.com/blog/NETCoreAndDocker.aspx)
 - [A complete containerized .NET Core Application microservice that is as small as possible](https://www.hanselman.com/blog/ACompleteContainerizedNETCoreApplicationMicroserviceThatIsAsSmallAsPossible.aspx)
+
+### .NET Core on Kubernetes
+
+- [Deploy ASP.NET Core app to Kubernetes on Google Kubernetes Engine](https://codelabs.developers.google.com/codelabs/cloud-kubernetes-aspnetcore/#0)
+- [Deploy ASP.NET Core apps to Azure Kubernetes Service with Azure DevOps Projects](https://docs.microsoft.com/en-us/azure/devops-project/azure-devops-project-aks)
+- [Access the Kubernetes web dashboard in Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-gb/azure/aks/kubernetes-dashboard)
 
 ### Background tasks
 
@@ -42,3 +49,22 @@ weight: 1
 ### Excel
 
 - [Converting an Excel Worksheet into a JSON document with C# and .NET Core and ExcelDataReader](https://www.hanselman.com/blog/ConvertingAnExcelWorksheetIntoAJSONDocumentWithCAndNETCoreAndExcelDataReader.aspx)
+
+### HTTP Client with NTLM authentication
+
+```csharp
+// Startup.cs
+public void ConfigureServices(IServiceCollection services)
+{
+    services.AddHttpClient(apiClientConfiguration.HttpClientName)
+        .ConfigurePrimaryHttpMessageHandler(
+            x => new HttpClientHandler
+            {
+                Credentials = new CredentialCache {
+                {
+                  new Uri(apiClientConfiguration.EndpointDomain), "NTLM", new NetworkCredential(_configuration.CustomApiClientUsername, _configuration.CustomApiClientPassword)
+                }
+            }
+        });
+}
+```
