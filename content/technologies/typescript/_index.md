@@ -1,7 +1,7 @@
 ---
 title: "TypeScript"
 date: 2019-09-13T10:24:07+02:00
-draft: true
+draft: false
 weight: 50
 ---
 
