@@ -11,7 +11,7 @@ weight: 20
 
 ## Content
 
-{{% children %}}
+{{% children sort="Name" %}}
 
 ## Presentation
 

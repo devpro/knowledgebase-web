@@ -55,7 +55,7 @@ weight: 50
 
 - Create a `greeter.html` file and open the file in a browser:
 
-  {{< highlight html >}}
+  ```html
   <!DOCTYPE html>
   <html>
       <head><title>TypeScript Greeter</title></head>
@@ -63,4 +63,4 @@ weight: 50
           <script src="greeter.js"></script>
       </body>
   </html>
-  {{< /highlight >}}
+  ```
