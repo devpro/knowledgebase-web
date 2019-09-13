@@ -2,11 +2,16 @@
 title: "MongoDB"
 date: 2019-08-22T18:51:00+02:00
 draft: false
+weight: 20
 ---
 
 **Official**: [mongodb.com](https://www.mongodb.com/)
 
 **Tags**: NoSQL, DocumentModel
+
+## Content
+
+{{% children %}}
 
 ## Presentation
 
@@ -16,8 +21,7 @@ draft: false
 
 ### Key features
 
-- [Transactions](https://www.mongodb.com/transactions): [docs](https://docs.mongodb.com/manual/core/transactions/)
+#### Transactions
 
-## Content
-
-{{% children %}}
+- [Presentation](https://www.mongodb.com/transactions)
+- [Documentation](https://docs.mongodb.com/manual/core/transactions/)

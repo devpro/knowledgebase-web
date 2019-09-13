@@ -2,6 +2,7 @@
 title: ".NET Core"
 date: 2019-08-09T23:27:59+02:00
 draft: false
+weight: 1
 ---
 
 **Official**: [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/)

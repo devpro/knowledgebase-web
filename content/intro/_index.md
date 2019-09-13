@@ -6,8 +6,6 @@ weight: 1
 draft: false
 ---
 
-Welcome to the website.
+## Recent posts
 
-More pages coming soon...
-
-{{% children description="true" %}}
+- [Welcome]({{< ref "posts/welcome" >}})
