@@ -6,6 +6,10 @@ weight: 1
 pre: "<i class='fa fa-home'></i> "
 ---
 
-## Recent posts
+## Welcome
 
-- [Welcome]({{< ref "posts/welcome" >}})
+Welcome to this Knowledge Base.
+
+The website is currently under construction but feel free to have a look at it and provide feedback!
+
+Source code for this website is located on [GitHub](https://github.com/devpro/knowledgebase-web).

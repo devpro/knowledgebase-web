@@ -2,7 +2,6 @@
 title: "TypeScript"
 date: 2019-09-13T10:24:07+02:00
 draft: false
-weight: 50
 ---
 
 **Main**: [typescriptlang.org](https://www.typescriptlang.org/)

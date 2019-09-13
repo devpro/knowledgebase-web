@@ -2,7 +2,8 @@
 title: "MongoDB"
 date: 2019-08-22T18:51:00+02:00
 draft: false
-weight: 20
+weight: 60
+pre: "<i class='fa fa-leaf'></i> "
 ---
 
 **Official**: [mongodb.com](https://www.mongodb.com/), [GitHub](https://github.com/mongodb), [Twitter](https://twitter.com/MongoDB)
