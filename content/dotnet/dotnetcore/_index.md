@@ -52,7 +52,7 @@ weight: 1
 
 ### HTTP Client with NTLM authentication
 
-```csharp
+{{< highlight csharp >}}
 // Startup.cs
 public void ConfigureServices(IServiceCollection services)
 {
@@ -67,4 +67,4 @@ public void ConfigureServices(IServiceCollection services)
             }
         });
 }
-```
+{{< /highlight >}}
