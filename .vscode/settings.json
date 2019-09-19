@@ -1,0 +1,7 @@
+{
+    "files.exclude": {
+        "**/public": true,
+        "**/resources": true,
+        "**/themes": true
+    }
+}

@@ -2,25 +2,31 @@
 
 [![CircleCI](https://circleci.com/gh/devpro/knowledgebase-web.svg?style=svg)](https://circleci.com/gh/devpro/knowledgebase-web)
 
-This is the source code for [knowledge-base-bertrand-thomas.cfapps.io](https://knowledge-base-bertrand-thomas.cfapps.io/).
+This is the source code of the website [knowledge-base-bertrand-thomas.cfapps.io](https://knowledge-base-bertrand-thomas.cfapps.io/).
 
 ## Contribute
 
-This website has been built thanks to [Hugo](https://gohugo.io/).
+You are more than welcome to create pull requests to update the source code.
+
+This website is based on [Hugo](https://gohugo.io/).
 
 ### Prerequisite
+
+The following tools are needed:
 
 - [Git client](https://git-scm.com/downloads)
 - [Hugo client](https://gohugo.io/getting-started/installing)
 
 ### Local run
 
+To have the website running locally, with automatic reload, follow the steps:
+
 - Get the source code through `git clone --recurse-submodules`
 - Run locally with `hugo server -D`
 
 ### Add content
 
-- Create a new content with `hugo new content/technologies/mongodb/mongodb-042.md`
+- Create a new page with the command `hugo new content/technologies/mongodb/mongodb-042.md`
 
 ### Known issues
 
@@ -28,7 +34,9 @@ This website has been built thanks to [Hugo](https://gohugo.io/).
 
 ## Deploy
 
-The website [knowledge-base-bertrand-thomas.cfapps.io](https://knowledge-base-bertrand-thomas.cfapps.io/) is hosted freely by [Pivotal Web Service PWS](https://run.pivotal.io/).
+### Hosting
+
+The website [knowledge-base-bertrand-thomas.cfapps.io](https://knowledge-base-bertrand-thomas.cfapps.io/) is running on [Pivotal Web Service PWS](https://run.pivotal.io/).
 
 ### Deployment procedure
 

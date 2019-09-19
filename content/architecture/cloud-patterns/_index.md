@@ -7,7 +7,12 @@ weight: 10
 
 ## Design patterns
 
+See [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/patterns/).
+
 ### Choreography
 
 - [docs.microsoft.com](https://docs.microsoft.com/en-us/azure/architecture/patterns/choreography)
-s
+
+#### Strangler
+
+- [docs.microsoft.com](https://docs.microsoft.com/en-us/azure/architecture/patterns/strangler)
