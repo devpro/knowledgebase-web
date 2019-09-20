@@ -6,9 +6,9 @@ weight: 60
 pre: "<i class='fa fa-leaf'></i> "
 ---
 
-**Official**: [mongodb.com](https://www.mongodb.com/), [GitHub](https://github.com/mongodb), [Twitter](https://twitter.com/MongoDB)
+MongoDB is a cross-platform document-oriented database technology, part of the NoSQL family, storing data in a JSON-like format.
 
-**Tags**: NoSQL, DocumentModel, OpenSource
+See [mongodb.com](https://www.mongodb.com/), [GitHub](https://github.com/mongodb), [Twitter](https://twitter.com/MongoDB).
 
 ## Content
 
@@ -16,7 +16,7 @@ pre: "<i class='fa fa-leaf'></i> "
 
 ## Presentation
 
-![image.png](/images/.attachments/image-10d40ef9-5b8e-400b-b600-602cbb49d98b.png)
+![image.png](/images/attachments/image-10d40ef9-5b8e-400b-b600-602cbb49d98b.png)
 
 ### News
 
