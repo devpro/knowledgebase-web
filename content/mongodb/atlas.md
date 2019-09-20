@@ -4,9 +4,7 @@ date: 2019-09-13T11:23:10+02:00
 draft: false
 ---
 
-**Main**: [mongodb.com](https://www.mongodb.com/cloud/atlas), [cloud.mongodb.com](https://cloud.mongodb.com), [documentation](https://docs.atlas.mongodb.com/)
-
-**Tags**: PaaS
+See [mongodb.com](https://www.mongodb.com/cloud/atlas), [cloud.mongodb.com](https://cloud.mongodb.com), [documentation](https://docs.atlas.mongodb.com/)
 
 ## Learning
 

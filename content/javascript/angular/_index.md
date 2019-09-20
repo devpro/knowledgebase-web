@@ -2,11 +2,12 @@
 title: "Angular"
 date: 2019-09-11T16:30:10+02:00
 draft: false
+weight: 10
 ---
 
-**Main**: [angular.io](https://angular.io/) ([API](https://angular.io/api))
+Angular is a JavaScript based framework to implement applications, in particular Single Page Applications (SPA).
 
-**Tags**: SPA, [TypeScript]({{< ref "javascript/typescript" >}})
+See [angular.io](https://angular.io/), [API](https://angular.io/api).
 
 ## Content
 

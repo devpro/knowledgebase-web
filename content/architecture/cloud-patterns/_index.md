@@ -2,7 +2,7 @@
 title: "Cloud Patterns"
 date: 2019-09-13T18:20:12+02:00
 draft: false
-weight: 10
+weight: 25
 ---
 
 ## Design patterns

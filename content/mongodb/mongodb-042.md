@@ -10,4 +10,4 @@ draft: false
 
 ## Presentations
 
-- August 13, 2019 [What`s new in MongoDB 4.2](https://www.mongodb.com/presentations/whats-new-in-mongodb-42) ([slides](https://docs.google.com/presentation/d/1bT6Neq7Smh6687uE_Dn7OWrWaApQfB18gkmkPmFpLOg))
+- [What`s new in MongoDB 4.2](https://www.mongodb.com/presentations/whats-new-in-mongodb-42) ([slides](https://docs.google.com/presentation/d/1bT6Neq7Smh6687uE_Dn7OWrWaApQfB18gkmkPmFpLOg)) August 13, 2019
