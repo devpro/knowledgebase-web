@@ -2,14 +2,18 @@
 title: ".NET Core 3.0"
 date: 2019-09-13T15:55:14+02:00
 draft: false
+weight: 30
 ---
 
 ## Overview
 
-- C# 8
+- .NET Core for Windows Desktop: WPF & WinForms
 - .NET Standard 2.1
-- .NET Core Windows Desktop (WPF, WinForms)
-- Entity Framework
+- C# 8 support
+- [MSIX](https://docs.microsoft.com/en-us/windows/msix/)
+- Fast built-in JSON support
+
+For more information look at the [What's new in .NET Core 3.0](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-0) page.
 
 ## New features
 

@@ -5,7 +5,7 @@ draft: false
 weight: 1
 ---
 
-.NET Core is the cross=platform version of .NET Framework, it is also the future of the .NET technology.
+.NET Core is the cross-platform version of .NET Framework, it is also the future of the .NET technology.
 
 See [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/) ([Roadmap](https://github.com/dotnet/core/blob/master/roadmap.md#upcoming-ship-dates)).
 
@@ -13,13 +13,24 @@ See [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/) ([Roadma
 
 {{% children sort="Name" %}}
 
-## Learning
+## Learn
 
-- [Learning about .NET Core futures by poking around at David Fowler's GitHub](https://www.hanselman.com/blog/LearningAboutNETCoreFuturesByPokingAroundAtDavidFowlersGitHub.aspx)
+> .NET Core is a general purpose, modular, cross-platform and open source implementation of the .NET Standard. It contains many of the same APIs as the .NET Framework (but .NET Core is a smaller set) and includes runtime, framework, compiler and tools components that support a variety of operating systems and chip targets. The .NET Core implementation was primarily driven by the ASP.NET Core workloads but also by the need and desire to have a more modern implementation. It can be used in device, cloud and embedded/IoT scenarios.
+
+From [.NET Core and Open-Source](https://docs.microsoft.com/en-us/dotnet/framework/get-started/net-core-and-open-source).
 
 ### Features
 
 - [Configuration](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration)
+- [Learning about .NET Core futures by poking around at David Fowler's GitHub](https://www.hanselman.com/blog/LearningAboutNETCoreFuturesByPokingAroundAtDavidFowlersGitHub.aspx)
+
+### Versions
+
+You can find all the release notes on [GitHub](https://github.com/dotnet/core/tree/master/release-notes).
+
+### Tutorials
+
+Start with [.NET Tutorial - Hello World in 10 minutes](https://dotnet.microsoft.com/learn/dotnet/hello-world-tutorial/intro) then [Learn .NET Core and the .NET Core SDK tools by exploring these Tutorials](https://docs.microsoft.com/en-us/dotnet/core/tutorials/).
 
 ## Recipes
 
@@ -33,15 +44,12 @@ See [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/) ([Roadma
 
 [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) is the GitHub repository for .NET Core Docker official images, which are now hosted on [mcr.microsoft.com](https://azure.microsoft.com/en-us/services/container-registry/).
 
-Interesting blogs to follow related to .NET Core and Docker!
-
-- [Julien Chable](http://julien.chable.net/)
+[Julien Chable](http://julien.chable.net/) has an interesting blog to follow with articles on .NET Core and Docker.
 
 To review:
 
-- 2019-03-22 [Getting Started with .NET Core and Docker and the Microsoft Container Registry](https://www.hanselman.com/blog/GettingStartedWithNETCoreAndDockerAndTheMicrosoftContainerRegistry.aspx)
-- 2019-03-15 [.NET Core Container Images now Published to Microsoft Container Registry](https://devblogs.microsoft.com/dotnet/net-core-container-images-now-published-to-microsoft-container-registry/)
-- [dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker)
+- [Getting Started with .NET Core and Docker and the Microsoft Container Registry](https://www.hanselman.com/blog/GettingStartedWithNETCoreAndDockerAndTheMicrosoftContainerRegistry.aspx) 2019-03-22
+- [.NET Core Container Images now Published to Microsoft Container Registry](https://devblogs.microsoft.com/dotnet/net-core-container-images-now-published-to-microsoft-container-registry/) 2019-03-15
 - [Dockerize an ASP.NET Core application](https://docs.docker.com/engine/examples/dotnetcore/)
 - [Scott Hanselman - .NET Core and Docker](https://www.hanselman.com/blog/NETCoreAndDocker.aspx)
 - [A complete containerized .NET Core Application microservice that is as small as possible](https://www.hanselman.com/blog/ACompleteContainerizedNETCoreApplicationMicroserviceThatIsAsSmallAsPossible.aspx)
@@ -54,7 +62,7 @@ To review:
 
 ### Background tasks
 
-- 2019-01-07 [Implement background tasks in microservices with IHostedService and the BackgroundService class](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/multi-container-microservice-net-applications/background-tasks-with-ihostedservice)
+- [Implement background tasks in microservices with IHostedService and the BackgroundService class](https://docs.microsoft.com/en-us/dotnet/standard/microservices-architecture/multi-container-microservice-net-applications/background-tasks-with-ihostedservice) 2019-01-07
 
 ### Excel
 
@@ -82,3 +90,7 @@ public void ConfigureServices(IServiceCollection services)
 ### CMS
 
 - [OrchardCMS](https://github.com/OrchardCMS/OrchardCore)
+
+### Testing
+
+- [Getting Started with xUnit.net](https://xunit.net/docs/getting-started/netcore/cmdline)

@@ -2,9 +2,12 @@
 title: "ASP.NET Core"
 date: 2019-09-13T16:07:03+02:00
 draft: false
+weight: 100
 ---
 
-**Main**: [github](https://github.com/aspnet/AspNetCore)
+> ASP.NET Core is an open-source and cross-platform .NET framework for building modern cloud-based web applications on Windows, Mac, or Linux.
+
+See the documentation on [docs.microsoft.com](https://docs.microsoft.com/en-us/aspnet/#pivot=core) the source code on [GitHub](https://github.com/aspnet/AspNetCore)
 
 ## Content
 
@@ -12,25 +15,33 @@ draft: false
 
 ## Learn
 
-### Key features
+### Fundamentals
 
-- [Configuration](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/index?view=aspnetcore-2.2)
+- [Configuration](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/)
+- [Dependency Injection](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection)
+- [Logging](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/)
+- [Web server implementations](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/)
+
 - [Filters](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/filters)
   - [Dependency Injection in Action Filters](https://www.devtrends.co.uk/blog/dependency-injection-in-action-filters-in-asp.net-core)
 - [Host and Deploy](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/index)
 - [Identity](https://docs.microsoft.com/en-us/aspnet/core/security/authentication/identity)
-- [Integration tests](https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests?view=aspnetcore-2.2)
+- [Integration tests](https://docs.microsoft.com/en-us/aspnet/core/test/integration-tests)
 - [Routing](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/routing)
 
-## Usecases
+### Deep dive
 
-### Documentation
+- [Host and deploy](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/)
+- [Performance Best Practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices)
+
+## Recipes
+
+### Swagger
 
 - [Get started with Swashbuckle and ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/tutorials/getting-started-with-swashbuckle)
 
 ### Logging
 
-- [Logging in ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/)
 - [ASP.NET Core Logging with Azure App Service and Serilog](https://devblogs.microsoft.com/aspnet/asp-net-core-logging/)
 
 ### Performance
@@ -41,6 +52,10 @@ draft: false
 ### OData
 
 - [Channel 9 - Supercharging your Web APIs with OData and ASP.NET Core](https://channel9.msdn.com/Shows/On-NET/Supercharging-your-Web-APIs-with-OData-and-ASPNET-Core)
+
+### Securing
+
+- [Securing ASP.NET Core 2.0 Applications with JWTs](https://auth0.com/blog/securing-asp-dot-net-core-2-applications-with-jwts/)
 
 ### Testing
 
