@@ -14,18 +14,18 @@ Command | Action
 
 ## Recipes
 
-- [Disable Windows 10 On Screen Keyboard](https://appuals.com/fix-disable-windows-10-screen-keyboard/)
+* [Disable Windows 10 On Screen Keyboard](https://appuals.com/fix-disable-windows-10-screen-keyboard/)
 
-- Review what is scheduled to be launched at startup
-  - Open the registory editor: `regedit`
-    - Look at "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run key"
+* Review what is scheduled to be launched at startup
+  * Open the registory editor: `regedit`
+    * Look at "HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\Run key"
 
-- [Temporarily prevent a driver update from reinstalling in Windows 10](https://support.microsoft.com/en-us/kb/3073930)
+* [Temporarily prevent a driver update from reinstalling in Windows 10](https://support.microsoft.com/en-us/kb/3073930)
 
-- [Have bash in Windows 10](http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
+* [Have bash in Windows 10](http://www.howtogeek.com/249966/how-to-install-and-use-the-linux-bash-shell-on-windows-10/)
 
-- Activate/Reenable Windows lock
-  - Open the registory editor: `regedit`
-    - Remove "DisableLockWorkStation"
-  - Open Local Group Policy Editor: `gpedit.msc`
-    - Disable "Remove Lock Computer" (in "Administrative Templates/System/Ctrl+Alt+Del Options")
+* Activate/Reenable Windows lock
+  * Open the registory editor: `regedit`
+    * Remove "DisableLockWorkStation"
+  * Open Local Group Policy Editor: `gpedit.msc`
+    * Disable "Remove Lock Computer" (in "Administrative Templates/System/Ctrl+Alt+Del Options")

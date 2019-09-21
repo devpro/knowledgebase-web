@@ -11,10 +11,14 @@ See: [nuget.org](https://www.nuget.org/), [Documentation](https://docs.microsoft
 
 ## Common packages
 
-Name | Site
----- | ----
-AutoMapper | [automapper.org](https://automapper.org/)
-FluentValidation | [fluentvalidation.net](https://fluentvalidation.net/)
+Name | Website | Source
+---- | ------- | ------
+AutoMapper | [automapper.org](https://automapper.org/) |
+FluentValidation | [fluentvalidation.net](https://fluentvalidation.net/) |
+Selenium WebDriver | |
+Moq | | [GitHub](https://github.com/Moq/moq4)
+xUnit | | [GitHub](https://github.com/xunit/xunit)
+FluentAssertions | [fluentassertions.com](http://www.fluentassertions.com/) |
 
 ## NuGet CLI
 

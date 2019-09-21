@@ -17,6 +17,7 @@ Azure is the Cloud Platform of Microsoft.
 
 - [Azure documentation](https://docs.microsoft.com/en-us/azure/)
 - [Azure Data Architecture Guide](https://docs.microsoft.com/en-us/azure/architecture/data-guide/)
+- [Azure Active Directory documentation](https://docs.microsoft.com/en-us/azure/active-directory/)
 - [Naming conventions for Azure resources](https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions)
 - [Security](https://docs.microsoft.com/en-us/azure/security/)
 - [Azure virtual datacenter: A network perspective](https://docs.microsoft.com/en-us/azure/architecture/vdc/networking-virtual-datacenter)

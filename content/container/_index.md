@@ -2,7 +2,7 @@
 title: "Container"
 date: 2019-09-13T17:51:54+02:00
 draft: false
-weight: 25
+weight: 26
 pre: "<i class='fa fa-ship'></i> "
 ---
 
@@ -67,5 +67,5 @@ It comes from Clound Native Buildpacks (CNB) project.
 
 ## Presentations
 
-- July 16, 2019: [Pivotal Build Service, Now Alpha, Assembles and Updates Containers in Kubernetes](https://content.pivotal.io/blog/pivotal-build-service-now-alpha-assembles-and-updates-containers-in-kubernetes)
-- Jul 23, 2019: [Pivotal Build Service Demo](https://www.youtube.com/watch?v=7QI-pDCSReM) (Youtube, 11min)
+- [Pivotal Build Service, Now Alpha, Assembles and Updates Containers in Kubernetes](https://content.pivotal.io/blog/pivotal-build-service-now-alpha-assembles-and-updates-containers-in-kubernetes) July 16, 2019
+- [Pivotal Build Service Demo](https://www.youtube.com/watch?v=7QI-pDCSReM) (Youtube, 11min) July 23, 2019

@@ -5,9 +5,9 @@ draft: false
 weight: 1
 ---
 
-**Official**: [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/) ([Roadmap](https://github.com/dotnet/core/blob/master/roadmap.md#upcoming-ship-dates))
+.NET Core is the cross=platform version of .NET Framework, it is also the future of the .NET technology.
 
-**Tags**: Microsoft, OpenSource, CrossPlatform
+See [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/core/) ([Roadmap](https://github.com/dotnet/core/blob/master/roadmap.md#upcoming-ship-dates)).
 
 ## Content
 
@@ -28,6 +28,16 @@ weight: 1
 - [Scott Hanselman - C# and .NET Core scripting with the "dotnet-script" global tool](https://www.hanselman.com/blog/CAndNETCoreScriptingWithTheDotnetscriptGlobalTool.aspx)
 
 ### Docker
+
+.NET Core runs really well on Docker.
+
+[dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) is the GitHub repository for .NET Core Docker official images, which are now hosted on [mcr.microsoft.com](https://azure.microsoft.com/en-us/services/container-registry/).
+
+Interesting blogs to follow related to .NET Core and Docker!
+
+- [Julien Chable](http://julien.chable.net/)
+
+To review:
 
 - 2019-03-22 [Getting Started with .NET Core and Docker and the Microsoft Container Registry](https://www.hanselman.com/blog/GettingStartedWithNETCoreAndDockerAndTheMicrosoftContainerRegistry.aspx)
 - 2019-03-15 [.NET Core Container Images now Published to Microsoft Container Registry](https://devblogs.microsoft.com/dotnet/net-core-container-images-now-published-to-microsoft-container-registry/)
