@@ -2,7 +2,7 @@
 title: "Blazor"
 date: 2019-09-16T17:35:08+02:00
 draft: false
-weight: 5
+weight: 20
 ---
 
 ## Presentation

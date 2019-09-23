@@ -5,6 +5,3 @@ draft: false
 weight: 20
 ---
 
-## Methodologies
-
-- [12 factors](https://12factor.net/)

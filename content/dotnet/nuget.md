@@ -2,7 +2,7 @@
 title: "NuGet"
 date: 2019-09-16T17:23:06+02:00
 draft: false
-weight: 20
+weight: 40
 ---
 
 NuGet is the package manager for .NET code source.
@@ -48,7 +48,7 @@ FluentAssertions | [fluentassertions.com](http://www.fluentassertions.com/) |
 Name | Site
 ---- | ----
 Azure Packages | Provided by Azure DevOps
-MyGet | [myget.org](https://www.myget.org)
+MyGet | [myget.org](https://www.myget.org), [Working with upstream sources](https://docs.myget.org/docs/reference/upstream-sources)
 ProGet | [inedo.com](https://inedo.com/proget)
 NuGet Server | [nugetserver.net](http://nugetserver.net/)
 NuGet Gallery | [GitHub](https://github.com/NuGet/NuGetGallery)

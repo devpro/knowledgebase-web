@@ -26,7 +26,7 @@ To have the website running locally, with automatic reload, follow the steps:
 
 ### Add content
 
-- Create a new page with the command `hugo new content/technologies/mongodb/mongodb-042.md`
+- Create a new page with the command `hugo new path/to/new/file.md`
 - Look at [fontawesome.com](https://fontawesome.com/icons?d=gallery) for ideas of menu icons
 
 ### Known issues

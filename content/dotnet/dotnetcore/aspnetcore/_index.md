@@ -33,6 +33,7 @@ See the documentation on [docs.microsoft.com](https://docs.microsoft.com/en-us/a
 
 - [Host and deploy](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/)
 - [Performance Best Practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices)
+- [The shared framework](https://natemcmaster.com/blog/2018/08/29/netcore-primitives-2/)
 
 ## Recipes
 
@@ -79,3 +80,89 @@ Articles to review:
 - [How to use Webpack in ASP.Net core projects; a basic React Template sample](https://codeburst.io/how-to-use-webpack-in-asp-net-core-projects-a-basic-react-template-sample-25a3681a5fc2)
 - [BUNDLING IN .NET CORE MVC APPLICATIONS WITH WEBPACK](https://dotnetcore.gaprogman.com/2017/01/05/bundling-in-net-core-mvc-applications-with-webpack/)
 - [How to include Bootstrap in your project with Webpack](https://stevenwestmoreland.com/2018/01/how-to-include-bootstrap-in-your-project-with-webpack.html)
+
+### Controller action status code
+
+{{< highlight csharp >}}
+public IActionResult Post([FromBody]string action)
+{
+    if (...)
+    {
+        return StatusCode(423);
+    }
+
+    return Ok(new ... {});
+  }
+}
+{{< /highlight >}}
+
+### Authentication
+
+#### Use Azure Directory
+
+- Go to Azure Portal and create an application in Azure Active Directory: [Integrating Azure AD into an ASP.NET Core web app](https://azure.microsoft.com/en-us/resources/samples/active-directory-dotnet-webapp-openidconnect-aspnetcore/)
+
+- Examples: [GitHub Azure-Samples/active-directory-dotnet-webapp-openidconnect-aspnetcore](https://github.com/Azure-Samples/active-directory-dotnet-webapp-openidconnect-aspnetcore) or run `dotnet new mvc -o dotnetadauth --auth SingleOrg --client-id <clientId> --tenant-id <tenantId> --domain <domainName>`
+
+- Edit csproj file
+
+{{< highlight xml >}}
+<PackageReference Include="Microsoft.AspNetCore.Authentication.AzureAD.UI" Version="2.1.1" />
+{{< /highlight >}}
+
+- Edit `appsettings.json` file
+
+{{< highlight json >}}
+"AzureAd": {
+  "Instance": "https://login.microsoftonline.com/",
+  "Domain": "<domainName>",
+  "TenantId": "<tenantId>",
+  "ClientId": "<clientId>",
+  "CallbackPath": "/signin-oidc"
+},
+{{< /highlight >}}
+
+- Edit `Startup.cs`:
+
+{{< highlight csharp >}}
+// in ConfigureServices()
+
+services.Configure<CookiePolicyOptions>(options =>
+{
+    // This lambda determines whether user consent for non-essential cookies is needed for a given request.
+    options.CheckConsentNeeded = context => true;
+    options.MinimumSameSitePolicy = SameSiteMode.None;
+});
+
+services.AddAuthentication(AzureADDefaults.AuthenticationScheme)
+    .AddAzureAD(options => Configuration.Bind("AzureAd", options));
+
+services
+    .AddMvc(options =>
+    {
+        var policy = new AuthorizationPolicyBuilder()
+            .RequireAuthenticatedUser()
+            .Build();
+        options.Filters.Add(new AuthorizeFilter(policy));
+    })
+    .SetCompatibilityVersion(CompatibilityVersion.Version_2_1);
+
+// in Configure()
+
+if (env.IsDevelopment())
+{
+    app.UseDeveloperExceptionPage();
+}
+else
+{
+    app.UseExceptionHandler("/Error");
+    app.UseHsts();
+}
+
+app.UseHttpsRedirection();
+app.UseStaticFiles();
+app.UseSpaStaticFiles();
+app.UseCookiePolicy();
+
+app.UseAuthentication();
+{{< /highlight >}}

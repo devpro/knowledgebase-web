@@ -2,7 +2,7 @@
 title: "Steeltoe"
 date: 2019-09-13T16:11:05+02:00
 draft: false
-weight: 50
+weight: 60
 ---
 
 ![image.png](/images/attachments/image-f754d8b5-1f18-421c-ba1d-fbbaf9e4686a.png)

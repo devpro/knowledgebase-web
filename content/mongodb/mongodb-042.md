@@ -2,6 +2,7 @@
 title: "MongoDB 4.2"
 date: 2019-09-11T14:04:40+02:00
 draft: false
+weight: 50
 ---
 
 ## Guides

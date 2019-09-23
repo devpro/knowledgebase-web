@@ -90,7 +90,14 @@ public void ConfigureServices(IServiceCollection services)
 ### CMS
 
 - [OrchardCMS](https://github.com/OrchardCMS/OrchardCore)
+- nopCommerce
+  - [Scott Hanselman - Exploring nopCommerce - open source e-commerce shopping cart platform in .NET Core](https://www.hanselman.com/blog/ExploringNopCommerceOpenSourceEcommerceShoppingCartPlatformInNETCore.aspx)
+- [Scott Hanselman - Headless CMS and Decoupled CMS in .NET Core](https://www.hanselman.com/blog/HeadlessCMSAndDecoupledCMSInNETCore.aspx)
 
-### Testing
+## .NET Core & PHP
 
-- [Getting Started with xUnit.net](https://xunit.net/docs/getting-started/netcore/cmdline)
+- [Scott Hanselman - The whole of WordPress compiled to .NET Core and a NuGet Package with PeachPie](https://www.hanselman.com/blog/TheWholeOfWordPressCompiledToNETCoreAndANuGetPackageWithPeachPie.aspx)
+
+## Angular & ASP.NET Core
+
+- [Use the Angular project template with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/client-side/spa/angular)

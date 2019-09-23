@@ -9,3 +9,7 @@ pre: "<i class='fa fa-concierge-bell'></i> "
 ## Content
 
 {{% children sort="Name" %}}
+
+## Specifications
+
+- [Open Service Broker Api](https://www.openservicebrokerapi.org/)
