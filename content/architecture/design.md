@@ -11,10 +11,18 @@ weight: 30
 
 [source](https://blogs.msdn.microsoft.com/wriju/2017/12/18/microservices-docker-architecture-for-apps/)
 
-### DDD
+## DDD
 
 See [Domain Driven Design (DDD)](https://en.wikipedia.org/wiki/Domain-driven_design)
 
 ### DDD examples
 
 - [citerus/dddsample-core](https://github.com/citerus/dddsample-core)
+
+## Hexagonal Architecture
+
+- [Architecture Hexagonale : trois principes et un exemple d’implémentation](https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/)
+
+## Feature flags
+
+- [What's the cost of feature flags?](https://opensource.com/article/18/7/does-progressive-exposure-really-come-cost)
