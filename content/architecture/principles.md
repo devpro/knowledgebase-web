@@ -16,7 +16,7 @@ weight: 60
   - Interface segregation principle
   - Dependency inversion principle
 
-- [OOD](http://butunclebob.com/ArticleS.UncleBob.PrinciplesOfOod): Object Oriented Design
+- [OOD](https://en.wikipedia.org/wiki/Object-oriented_design): Object Oriented Design
 
 - [DRY](https://en.wikipedia.org/wiki/Don%27t_repeat_yourself): Don't Repeat Yourself
 

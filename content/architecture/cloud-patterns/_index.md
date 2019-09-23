@@ -23,6 +23,10 @@ See [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/
 - [Exploring CQRS within the Brighter .NET open source project](https://www.hanselman.com/blog/ExploringCQRSWithinTheBrighterNETOpenSourceProject.aspx)
 - [Example Code - Opinionated ContosoUniversity on ASP.NET Core 2.0's Razor Pages](https://www.hanselman.com/blog/ExampleCodeOpinionatedContosoUniversityOnASPNETCore20sRazorPages.aspx)
 
+### Event sourcing
+
+- [docs.microsoft.com](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
+
 ### Strangler
 
 - [docs.microsoft.com](https://docs.microsoft.com/en-us/azure/architecture/patterns/strangler)
