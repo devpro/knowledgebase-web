@@ -7,3 +7,4 @@ draft: false
 ## Recipes
 
 - Rename files by adding a prefix: `FOR %v IN (*.*) DO REN %v prefix%v`
+- [Scott Hanselman - Enjoy some DOS Games this Christmas with DOSBox](https://www.hanselman.com/blog/EnjoySomeDOSGamesThisChristmasWithDOSBox.aspx)

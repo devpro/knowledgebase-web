@@ -5,3 +5,4 @@ draft: false
 weight: 20
 ---
 
+See [Cloud Native Glossary](https://www.cloudfoundry.org/cloud-native-glossary/).

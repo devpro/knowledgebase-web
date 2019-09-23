@@ -2,12 +2,12 @@
 title: "Kubernetes"
 date: 2019-09-13T17:51:39+02:00
 draft: false
-weight: 5
+weight: 40
 ---
 
-**Main**: [kubernetes.io](https://kubernetes.io/), [cheatsheet](https://devpro.github.io/kubernetes/cheatsheet.html)
-
 > Kubernetes (K8s) is an open-source system for automating deployment, scaling, and management of containerized applications.
+
+See [kubernetes.io](https://kubernetes.io/), [cheatsheet](https://devpro.github.io/kubernetes/cheatsheet.html).
 
 ## Learn
 

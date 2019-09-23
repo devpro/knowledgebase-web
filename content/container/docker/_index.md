@@ -2,7 +2,7 @@
 title: "Docker"
 date: 2019-09-13T17:51:33+02:00
 draft: false
-weight: 1
+weight: 30
 ---
 
 > Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.
