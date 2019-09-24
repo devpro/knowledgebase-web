@@ -13,3 +13,4 @@ pre: "<i class='fa fa-mail-bulk'></i> "
 ## Companies
 
 - [Software AG](https://www.softwareag.com/corporate/default.html): [webMethods](https://www.softwareag.com/corporate/products/webmethods_integration/default)
+- [LogRocket](https://logrocket.com/)

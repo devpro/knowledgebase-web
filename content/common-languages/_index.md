@@ -9,3 +9,9 @@ pre: "<i class='fa fa-language'></i> "
 ## Content
 
 {{% children sort="Name" %}}
+
+## Recipes
+
+### Static websites from markdown pages
+
+- [jekyll](https://jekyllrb.com/)

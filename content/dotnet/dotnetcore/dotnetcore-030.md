@@ -7,16 +7,21 @@ weight: 30
 
 ## Overview
 
-- .NET Core for Windows Desktop: WPF & WinForms
+Look at the page [Announcing .NET Core 3.0](https://devblogs.microsoft.com/dotnet/announcing-net-core-3-0/).
+
+- Windows Desktop: WPF & Windows Forms
 - .NET Standard 2.1
-- C# 8 support
+- C# 8
 - [MSIX](https://docs.microsoft.com/en-us/windows/msix/)
 - Fast built-in JSON support
+- Performance improvements
+- Executables
 
 For more information look at the [What's new in .NET Core 3.0](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-0) page.
 
 ## New features
 
+- [Performance Improvements in .NET Core 3.0](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core-3-0/) May 15, 2019
 - Preview 7 (Jul 23, 2019):
   - [Announcing .NET Core 3.0 Preview 7](https://devblogs.microsoft.com/dotnet/announcing-net-core-3-0-preview-7/)
   - [ASP.NET Core and Blazor updates in .NET Core 3.0 Preview 7](https://devblogs.microsoft.com/aspnet/asp-net-core-and-blazor-updates-in-net-core-3-0-preview-7/)
@@ -26,10 +31,6 @@ For more information look at the [What's new in .NET Core 3.0](https://docs.micr
 - [Announcing .NET Core 3 Preview 2](https://devblogs.microsoft.com/dotnet/announcing-net-core-3-preview-2/) Jan 29, 2019
 - [Announcing .NET Core 3 Preview 1 and Open Sourcing Windows Desktop Frameworks](https://devblogs.microsoft.com/dotnet/announcing-net-core-3-preview-1-and-open-sourcing-windows-desktop-frameworks/) Dec 04, 2018
   - [Scott Hanselman - Announcing WPF, WinForms, and WinUI are going Open Source](https://www.hanselman.com/blog/AnnouncingWPFWinFormsAndWinUIAreGoingOpenSource.aspx)
-
-## Migration
-
-- [Migrate from ASP.NET Core 2.2 to 3.0](https://docs.microsoft.com/en-us/aspnet/core/migration/22-to-30?view=aspnetcore-2.2&tabs=visual-studio)
 
 ## Recipes
 

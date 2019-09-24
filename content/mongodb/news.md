@@ -17,6 +17,7 @@ See [What's new](https://www.mongodb.com/new).
 
 ## Q3 2019
 
+- July 25, 2019: [AWS DocumentDB and MongoDB Atlas: Friend or Foe?](https://beth.technology/mongodb-atlas/)
 - July 24, 2019: [Getting started with MongoDB Atlas Full-Text Search](https://www.mongodb.com/blog/post/getting-started-with-mongodb-atlas-fulltext-search)
 - July 23, 2019: [Learn about the nexus of MongoDB and microservices in 15 minutes](https://content.pivotal.io/intersect/mongodb-in-15-minutes)
 - July 23, 2019: [Terraform and Vault are coming to MongoDB Atlas](https://www.mongodb.com/blog/post/terraform-and-vault-are-coming-to-mongodb-atlas)

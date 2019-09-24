@@ -20,7 +20,13 @@ See [mongodb.com](https://www.mongodb.com/cloud/stitch), [docs.mongodb.com](http
 
 - [mongodb/stitch-js-sdk](https://github.com/mongodb/stitch-js-sdk)
 
+### Deployment
+
+You can use GitHub Actions to setup a continuous deployment, watch this video from [Lauren Schaefer](https://www.mongodb.com/blog/post/configuring-stitch-automated-deployments-with-github).
+
 ## Getting started
+
+You can start by this [serie of videos](https://www.mongodb.com/blog/post/start-here-a-video-introduction-to-mongodb-stitch).
 
 ### MongoDB Building a Web-based To-Do App
 

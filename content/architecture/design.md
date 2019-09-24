@@ -11,18 +11,30 @@ weight: 30
 
 [source](https://blogs.msdn.microsoft.com/wriju/2017/12/18/microservices-docker-architecture-for-apps/)
 
-## DDD
+## DDD (Domain Driven Design)
 
-See [Domain Driven Design (DDD)](https://en.wikipedia.org/wiki/Domain-driven_design)
+DDD is more and more used when creating new applications, you can know more about it by looking at the page on [wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design).
 
-### DDD examples
+Code examples:
 
 - [citerus/dddsample-core](https://github.com/citerus/dddsample-core)
+- [kgrzybek/modular-monolith-with-ddd](https://github.com/kgrzybek/modular-monolith-with-ddd)
 
 ## Hexagonal Architecture
 
-- [Architecture Hexagonale : trois principes et un exemple d’implémentation](https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/)
+If you're French, you can look at this article from [Octo](https://blog.octo.com/architecture-hexagonale-trois-principes-et-un-exemple-dimplementation/).
 
 ## Feature flags
 
-- [What's the cost of feature flags?](https://opensource.com/article/18/7/does-progressive-exposure-really-come-cost)
+Feature flags are a great way to do continuous delivery with the latest source code and activate when needed new functionalities. But there is a cost that is described in an article from [opensource](https://opensource.com/article/18/7/does-progressive-exposure-really-come-cost).
+
+## Communication
+
+Two standards are recommended:
+
+- REST
+- gRPC
+
+As of 2019, REST is still more widely used but gRPC contains great improvements and will be used more and more for new microservices.
+
+You can easily find comparison between REST and gRPC on the internet, for example [code.tutsplus.com](https://code.tutsplus.com/tutorials/rest-vs-grpc-battle-of-the-apis--cms-30711). There is an interesting summary on [docs.microsoft.com](https://docs.microsoft.com/en-us/aspnet/core/grpc/comparison?view=aspnetcore-3.0).

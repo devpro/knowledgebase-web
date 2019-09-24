@@ -23,6 +23,7 @@ From [.NET Core and Open-Source](https://docs.microsoft.com/en-us/dotnet/framewo
 
 - [Configuration](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration)
 - [Learning about .NET Core futures by poking around at David Fowler's GitHub](https://www.hanselman.com/blog/LearningAboutNETCoreFuturesByPokingAroundAtDavidFowlersGitHub.aspx)
+- Memory: poster from [Pro .NET Memory](https://prodotnetmemory.com/)
 
 ### Versions
 
