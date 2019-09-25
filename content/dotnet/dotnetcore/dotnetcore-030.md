@@ -31,6 +31,7 @@ For more information look at the [What's new in .NET Core 3.0](https://docs.micr
 - [Announcing .NET Core 3 Preview 2](https://devblogs.microsoft.com/dotnet/announcing-net-core-3-preview-2/) Jan 29, 2019
 - [Announcing .NET Core 3 Preview 1 and Open Sourcing Windows Desktop Frameworks](https://devblogs.microsoft.com/dotnet/announcing-net-core-3-preview-1-and-open-sourcing-windows-desktop-frameworks/) Dec 04, 2018
   - [Scott Hanselman - Announcing WPF, WinForms, and WinUI are going Open Source](https://www.hanselman.com/blog/AnnouncingWPFWinFormsAndWinUIAreGoingOpenSource.aspx)
+- .NET diagnostics tools are shipped with .NET Core 3.0 release! You can now install them by `dotnet tool install -g dotnet-counters` (or dotnet-trace, dotnet-dump).
 
 ## Recipes
 

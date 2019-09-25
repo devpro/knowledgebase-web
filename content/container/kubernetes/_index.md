@@ -25,6 +25,12 @@ Deployments
 
 Services
 
+### Certifications
+
+#### Certified Kubernetes Administrator (CKA)
+
+- [Study guide for the Certified Kubernetes Administrator (CKA) exam](https://blog.autsoft.hu/certified-kubernetes-administrator/)
+
 ## Tools
 
 - [k14s](https://k14s.io/)
@@ -40,6 +46,7 @@ Services
 ## Tutorials
 
 - https://medium.com/google-cloud/kubernetes-running-background-tasks-with-batch-jobs-56482fbc853
+- [Superviser son cluster Kubernetes avec Prometheus et Grafana](https://blog.syloe.com/superviser-cluster-kubernetes-avec-grafana-et-prometheus/)
 
 ## Deployment
 

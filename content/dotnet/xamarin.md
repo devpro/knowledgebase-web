@@ -12,3 +12,7 @@ weight: 80
 - [Hello World](https://docs.microsoft.com/fr-fr/xamarin/android/get-started/hello-android/hello-android-quickstart?tabs=vswin)
 - [Xamarin Get started](https://docs.microsoft.com/fr-fr/xamarin/cross-platform/get-started/)
 - [Xamarin University](https://university.xamarin.com/)
+
+### Annoucements
+
+- [Xamarin Announcements from .NET Conf 2019](https://devblogs.microsoft.com/xamarin/xamarin-dotnet-conf-2019/)
