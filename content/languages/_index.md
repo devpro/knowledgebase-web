@@ -1,8 +1,8 @@
 ---
-title: "Common Languages"
+title: "Languages (others)"
 date: 2019-09-20T11:32:24+02:00
 draft: false
-weight: 23
+weight: 55
 pre: "<i class='fa fa-language'></i> "
 ---
 

@@ -9,6 +9,10 @@ See [mongodb.com](https://www.mongodb.com/cloud/atlas), [cloud.mongodb.com](http
 
 ## Learning
 
+### News
+
+- [Atlas Compute Auto-Scaling and Data Infrastructure as Code at MongoDB.local London](https://www.mongodb.com/blog/post/atlas-compute-autoscaling-data-infrastructure-as-code-and-more-at-mongodblocal-london) - September 26, 2019
+
 ### Key features
 
 - Cloud providers: Amazon Web Services, Google Cloud Platform, Microsoft Azure

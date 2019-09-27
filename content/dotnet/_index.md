@@ -27,7 +27,6 @@ See [dotnet.microsoft.com](https://dotnet.microsoft.com/), [docs.microsoft.com](
 ### Videos
 
 - [.NET Videos](https://dotnet.microsoft.com/learn/videos)
-- [.NET Conf 2019](https://www.youtube.com/playlist?list=PLReL099Y5nRd04p81Q7p5TtyjCrj9tz1t)
 
 ### Playgrounds
 

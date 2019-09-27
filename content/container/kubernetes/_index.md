@@ -9,6 +9,10 @@ weight: 40
 
 See [kubernetes.io](https://kubernetes.io/), [cheatsheet](https://devpro.github.io/kubernetes/cheatsheet.html).
 
+## Content
+
+{{% children sort="Name" %}}
+
 ## Learn
 
 ### Backgroung
@@ -45,23 +49,31 @@ Services
 
 ## Tutorials
 
-- https://medium.com/google-cloud/kubernetes-running-background-tasks-with-batch-jobs-56482fbc853
+- [Running Background Tasks With Batch-Jobs](https://medium.com/google-cloud/kubernetes-running-background-tasks-with-batch-jobs-56482fbc853)
 - [Superviser son cluster Kubernetes avec Prometheus et Grafana](https://blog.syloe.com/superviser-cluster-kubernetes-avec-grafana-et-prometheus/)
 
 ## Deployment
 
 ### Google Kubernetes Engine (GKE)
 
-https://cloud.google.com/kubernetes-engine/
+> Reliable, efficient, and secured way to run Kubernetes clusters
+
+See [cloud.google.com](https://cloud.google.com/kubernetes-engine/).
 
 ### Amazon Elastic Kubernetes Service (Amazon EKS)
 
-https://aws.amazon.com/eks/
+> Highly available, scalable, and secure Kubernetes service
+
+[aws.amazon.com](https://aws.amazon.com/eks/)
 
 ### Azure Kubernetes Service (AKS)
 
-https://azure.microsoft.com/en-us/services/kubernetes-service/
+> Highly available, secure, and fully managed Kubernetes service
+
+See [azure.microsoft.com](https://azure.microsoft.com/en-us/services/kubernetes-service/).
 
 ### Pivotal Container Service (PKS)
 
-https://pivotal.io/platform/pivotal-container-service
+> Pivotal Container Service (PKS) is an enterprise Kubernetes platform, architected for rapid results, scaling, and reliability on any infrastructure.
+
+See [pivotal.io](https://pivotal.io/platform/pivotal-container-service).

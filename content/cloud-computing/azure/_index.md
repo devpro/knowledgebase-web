@@ -91,6 +91,10 @@ Snapshot Debugger
   - [Application Security on Microsoft Azure](https://app.pluralsight.com/paths/skill/application-security-on-microsoft-azure)
   - [Architecting Microsoft Azure Solutions (70-534)](https://app.pluralsight.com/paths/certificate/azure-solutions-70-534)
 
+### Workshops
+
+- [Real-Time Fleet Tracking Workshop for Azure Developers](https://developer.here.com/blog/real-time-fleet-tracking-workshop-for-azure-developers) - July 18, 2019
+
 ### Trainings
 
 - Cellenza
