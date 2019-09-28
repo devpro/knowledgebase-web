@@ -67,6 +67,7 @@ See the documentation on [docs.microsoft.com](https://docs.microsoft.com/en-us/a
 ### Versioning
 
 - [aspnet-api-versioning](https://github.com/Microsoft/aspnet-api-versioning)
+- [Blog of Pi](https://www.blogofpi.com/versioning-web-api/)
 
 ### Packaging
 

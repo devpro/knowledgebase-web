@@ -27,6 +27,10 @@ See [Cloud Design Patterns](https://docs.microsoft.com/en-us/azure/architecture/
 
 - [docs.microsoft.com](https://docs.microsoft.com/en-us/azure/architecture/patterns/event-sourcing)
 
+### Saga
+
+- [docs.particular.net/nservicebus](https://docs.particular.net/nservicebus/sagas/)
+
 ### Strangler
 
 - [docs.microsoft.com](https://docs.microsoft.com/en-us/azure/architecture/patterns/strangler)

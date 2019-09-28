@@ -24,7 +24,9 @@ See [Documentation](https://docs.microsoft.com/en-us/azure/devops/pipelines/).
 
 ### Examples
 
-Search for example pipelines in [MicrosoftDocs](https://github.com/MicrosoftDocs) GitHub repositories.
+Example of pipelines in [MicrosoftDocs](https://github.com/MicrosoftDocs) GitHub repositories.
+
+.NET Blog article on [How the .NET Team uses Azure Pipelines to produce Docker Images](https://devblogs.microsoft.com/dotnet/how-the-net-team-uses-azure-pipelines-to-produce-docker-images/)
 
 ### Tutorials
 

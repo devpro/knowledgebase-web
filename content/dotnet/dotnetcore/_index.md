@@ -43,14 +43,19 @@ Start with [.NET Tutorial - Hello World in 10 minutes](https://dotnet.microsoft.
 
 .NET Core runs really well on Docker.
 
-[dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) is the GitHub repository for .NET Core Docker official images, which are now hosted on [mcr.microsoft.com](https://azure.microsoft.com/en-us/services/container-registry/).
+[dotnet/dotnet-docker](https://github.com/dotnet/dotnet-docker) is the GitHub repository for .NET Core Docker official images, which are now hosted on [Microsoft Container Registry (MCR)](https://azure.microsoft.com/en-us/services/container-registry/). To know more read this arcticle [.NET Core Container Images now Published to Microsoft Container Registry](https://devblogs.microsoft.com/dotnet/net-core-container-images-now-published-to-microsoft-container-registry/) published on March 15, 2019.
 
 [Julien Chable](http://julien.chable.net/) has an interesting blog to follow with articles on .NET Core and Docker.
+
+Official images repository:
+
+- [ASP.NET Core Runtime](https://hub.docker.com/_/microsoft-dotnet-core-aspnet/)
+- [.NET Core Samples](https://hub.docker.com/_/microsoft-dotnet-core-samples)
+- [.NET Core](https://hub.docker.com/_/microsoft-dotnet-core)
 
 To review:
 
 - [Getting Started with .NET Core and Docker and the Microsoft Container Registry](https://www.hanselman.com/blog/GettingStartedWithNETCoreAndDockerAndTheMicrosoftContainerRegistry.aspx) 2019-03-22
-- [.NET Core Container Images now Published to Microsoft Container Registry](https://devblogs.microsoft.com/dotnet/net-core-container-images-now-published-to-microsoft-container-registry/) 2019-03-15
 - [Dockerize an ASP.NET Core application](https://docs.docker.com/engine/examples/dotnetcore/)
 - [Scott Hanselman - .NET Core and Docker](https://www.hanselman.com/blog/NETCoreAndDocker.aspx)
 - [A complete containerized .NET Core Application microservice that is as small as possible](https://www.hanselman.com/blog/ACompleteContainerizedNETCoreApplicationMicroserviceThatIsAsSmallAsPossible.aspx)

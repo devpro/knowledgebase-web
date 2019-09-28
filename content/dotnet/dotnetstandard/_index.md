@@ -12,3 +12,7 @@ See [Documentation](https://docs.microsoft.com/en-us/dotnet/standard/net-standar
 ## Content
 
 {{% children sort="Name" %}}
+
+## Guides
+
+- [Open-source library guidance](https://docs.microsoft.com/en-us/dotnet/standard/library-guidance/)

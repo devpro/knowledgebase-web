@@ -17,9 +17,9 @@ Look at the page [Announcing .NET Core 3.0](https://devblogs.microsoft.com/dotne
 - Performance improvements
 - Executables
 
-For more information look at the [What's new in .NET Core 3.0](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-0) page.
+For more information look at the page [What's new in .NET Core 3.0](https://docs.microsoft.com/en-us/dotnet/core/whats-new/dotnet-core-3-0).
 
-## New features
+## Annoucements
 
 - [Performance Improvements in .NET Core 3.0](https://devblogs.microsoft.com/dotnet/performance-improvements-in-net-core-3-0/) May 15, 2019
 - Preview 7 (Jul 23, 2019):
@@ -33,10 +33,20 @@ For more information look at the [What's new in .NET Core 3.0](https://docs.micr
   - [Scott Hanselman - Announcing WPF, WinForms, and WinUI are going Open Source](https://www.hanselman.com/blog/AnnouncingWPFWinFormsAndWinUIAreGoingOpenSource.aspx)
 - .NET diagnostics tools are shipped with .NET Core 3.0 release! You can now install them by `dotnet tool install -g dotnet-counters` (or dotnet-trace, dotnet-dump).
 
+## New features
+
+### Worker
+
+Read [.NET Core and systemd](https://devblogs.microsoft.com/dotnet/net-core-and-systemd/).
+
+### Hardware intrinsics
+
+Read [Hardware Intrinsics in .NET Core](https://devblogs.microsoft.com/dotnet/hardware-intrinsics-in-net-core/) (September 3rd, 2019).
+
 ## EF Core 3.0
 
 - [Announcing Entity Framework Core 3.0 and Entity Framework 6.3 General Availability](https://devblogs.microsoft.com/dotnet/announcing-ef-core-3-0-and-ef-6-3-general-availability/) - September 23rd, 2019
 
 ## Recipes
 
-- [Making a tiny .NET Core 3.0 entirely self-contained single executable](https://www.hanselman.com/blog/MakingATinyNETCore30EntirelySelfcontainedSingleExecutable.aspx) - June 13, 2019
+- [Making a tiny .NET Core 3.0 entirely self-contained single executable](https://www.hanselman.com/blog/MakingATinyNETCore30EntirelySelfcontainedSingleExecutable.aspx) (June 13, 2019)

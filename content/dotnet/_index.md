@@ -40,6 +40,11 @@ See [dotnet.microsoft.com](https://dotnet.microsoft.com/), [docs.microsoft.com](
   - Value types (int, char, etc.) are created in the Stack
   - Reference types (string, class, interface, etc.) are created in the Heap
 
+### Namespaces
+
+System.* are for the .NET Framework
+Microsoft.* are built by Microsoft
+
 ### Recipes
 
 ### Package management
@@ -55,6 +60,7 @@ See [dotnet.microsoft.com](https://dotnet.microsoft.com/), [docs.microsoft.com](
 
 ### Code analysis
 
+- [.NET API analyzer](https://docs.microsoft.com/en-us/dotnet/standard/analyzers/api-analyzer)
 - [Overview of static code analysis for managed code in Visual Studio](https://docs.microsoft.com/en-us/visualstudio/code-quality/code-analysis-for-managed-code-overview?view=vs-2017)
 
 To be reviewed:

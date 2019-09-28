@@ -4,6 +4,8 @@ date: 2019-09-23T11:51:21+02:00
 draft: false
 ---
 
+[Official site](https://azure.microsoft.com/fr-fr/services/devops/pipelines/)
+
 ## New features
 
 * [Caching and faster artifacts in Azure Pipelines](https://devblogs.microsoft.com/devops/caching-and-faster-artifacts-in-azure-pipelines/) - July 24, 2019
@@ -14,6 +16,10 @@ draft: false
 ### Agents
 
 * [Microsoft-hosted agents](https://docs.microsoft.com/en-us/azure/devops/pipelines/agents/hosted?view=azure-devops&tabs=yaml) (public IP ranges)
+
+### Definition
+
+[YAML schema reference](https://docs.microsoft.com/fr-fr/azure/devops/pipelines/yaml-schema)
 
 ## Recipes
 

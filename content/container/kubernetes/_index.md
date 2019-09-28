@@ -52,6 +52,10 @@ Services
 - [Running Background Tasks With Batch-Jobs](https://medium.com/google-cloud/kubernetes-running-background-tasks-with-batch-jobs-56482fbc853)
 - [Superviser son cluster Kubernetes avec Prometheus et Grafana](https://blog.syloe.com/superviser-cluster-kubernetes-avec-grafana-et-prometheus/)
 
+## Samples
+
+- [sixeyed/k8s-win](https://github.com/sixeyed/k8s-win)
+
 ## Deployment
 
 ### Google Kubernetes Engine (GKE)

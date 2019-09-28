@@ -8,7 +8,9 @@ draft: false
 
 ### .NET Conf 2019
 
-[Videos](https://www.youtube.com/playlist?list=PLReL099Y5nRd04p81Q7p5TtyjCrj9tz1t)
+[Official site](https://www.dotnetconf.net/)
+
+[Youtube VisualStudio](https://www.youtube.com/user/VisualStudio) > [Videos](https://www.youtube.com/playlist?list=PLReL099Y5nRd04p81Q7p5TtyjCrj9tz1t)
 
 Talks:
 
