@@ -62,7 +62,7 @@ sonar.exclusions=**/node_modules/**,**/*.spec.ts,**/coverage/**,**/bin/**,**/obj
 #sonar.tests=test
 sonar.test.inclusions=**/*.spec.ts
 sonar.typescript.lcov.reportPaths=src/WebApp/ClientApp/coverage/lcov.info
-#sonar.dotnet.visualstudio.solution.file=Sogetrel.Sinapse.Cerebra.sln
+#sonar.dotnet.visualstudio.solution.file=Solution.Name.sln
 ```
 
 - Edit `package.json` file
