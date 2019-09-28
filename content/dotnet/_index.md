@@ -23,6 +23,7 @@ See [dotnet.microsoft.com](https://dotnet.microsoft.com/), [docs.microsoft.com](
 
 - [.NET Architecture Guides](https://dotnet.microsoft.com/learn/dotnet/architecture-guides)
   - [.NET Microservices Architecture Guidance](https://dotnet.microsoft.com/learn/aspnet/microservices-architecture) ([Microservice architecture with ASP.NET Core](https://channel9.msdn.com/Events/Build/2017/T6051) May 08, 2017, [dotnet-architecture/eShopOnContainers](https://github.com/dotnet-architecture/eShopOnContainers))
+- [.NET at Pivotal](https://content.pivotal.io/dotnet)
 
 ### Videos
 

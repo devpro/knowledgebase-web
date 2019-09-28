@@ -33,7 +33,8 @@ Services
 
 #### Certified Kubernetes Administrator (CKA)
 
-- [Study guide for the Certified Kubernetes Administrator (CKA) exam](https://blog.autsoft.hu/certified-kubernetes-administrator/)
+- [Study guide from AutSoft](https://blog.autsoft.hu/certified-kubernetes-administrator/)
+- [Review from Rieckpil](https://rieckpil.de/review-ckad-certified-kubernetes-application-developer-program/)
 
 ## Tools
 
@@ -55,6 +56,12 @@ Services
 ## Samples
 
 - [sixeyed/k8s-win](https://github.com/sixeyed/k8s-win)
+
+## Packaging
+
+### kpack
+
+[Video TGI Kubernetes 091](https://www.youtube.com/watch?v=4zkRX9PSJ5k&feature=youtu.be)
 
 ## Deployment
 

@@ -71,7 +71,7 @@ Snapshot Debugger
 
 - [Azure Service Fabric Documentation](https://docs.microsoft.com/en-us/azure/service-fabric/)
 
-### Features
+### Services
 
 #### Cognitive Services
 
@@ -79,6 +79,11 @@ Snapshot Debugger
 - [Computer Vision](https://azure.microsoft.com/en-us/services/cognitive-services/computer-vision/)
   - [Computer Vision API Documentation](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/)
     - [Quickstart: Analyze a remote image using the REST API with Node.js in Computer Vision](https://docs.microsoft.com/en-us/azure/cognitive-services/computer-vision/QuickStarts/node-analyze)
+
+#### Azure Private Link
+
+- [Official page](https://azure.microsoft.com/en-us/services/private-link/)
+- [Annoucement](https://azure.microsoft.com/en-us/blog/announcing-azure-private-link/) (September 17, 2019)
 
 ## Learn
 

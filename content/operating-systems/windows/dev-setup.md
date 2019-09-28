@@ -18,7 +18,6 @@ Additions:
 
 - [wget](https://www.gnu.org/software/wget/)
   - solution found on [GitHub](https://github.com/cmderdev/cmder/issues/69)
-    ![image.png](/.attachments/image-c0ff16d7-46b1-4fd6-81e4-465a0741dad8.png)
   - as indicated in the [faq](https://www.gnu.org/software/wget/faq.html#download) go to [eternallybored.org/misc/wget](https://eternallybored.org/misc/wget/) and download the latest x64 version
   - extract the exe file and copy it in your local cmder installation bin directory
 
