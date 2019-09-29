@@ -2,6 +2,7 @@
 title: "Jenkins"
 date: 2019-09-23T23:12:08+02:00
 draft: false
+weight: 40
 ---
 
 ## Learning
