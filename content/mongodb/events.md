@@ -11,3 +11,7 @@ draft: false
 Talks:
 
 - "Streaming Data on the Shoulders of Giants" [Slides](https://noti.st/hpgrahsl/YxYD7S/streaming-data-on-the-shoulders-of-giants)
+
+Recap:
+
+- [dev.to](https://dev.to/phoebevf/mongodb-local-in-london-2019-397m)

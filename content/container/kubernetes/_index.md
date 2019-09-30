@@ -15,6 +15,8 @@ See [kubernetes.io](https://kubernetes.io/), [cheatsheet](https://devpro.github.
 
 ## Learn
 
+[Learning Path from Microsoft](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/)
+
 ### Backgroung
 
 Kubernetes was started by Google and, with its v1.0 release in July 2015, Google donated it to the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/).

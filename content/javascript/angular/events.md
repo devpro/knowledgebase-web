@@ -30,3 +30,7 @@ Talks:
   - Intelligent tooling
   - Enabling best practices
   - ng deploy
+
+Workshops:
+
+- [AnkitSharma-007/blogsite](https://github.com/AnkitSharma-007/blogsite)
