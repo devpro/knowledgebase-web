@@ -31,6 +31,10 @@ Deployments
 
 Services
 
+### Learning resources
+
+- [List](https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU/edit#gid=0) from [Kubernauts / IO](https://twitter.com/kubernauts)
+
 ### Certifications
 
 #### Certified Kubernetes Administrator (CKA)
