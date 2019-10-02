@@ -24,11 +24,11 @@ weight: 50
 
 - [aim42](https://www.aim42.org/)
 
-  > aim42 is the systematic approach to improve software systems and architectures
+    > aim42 is the systematic approach to improve software systems and architectures
 
 - [C4 model](https://c4model.com/)
 
-  > The C4 model for visualising software architecture: Context, Containers, Components and Code
+    > The C4 model for visualising software architecture: Context, Containers, Components and Code
 
 - Extreme programming
 
