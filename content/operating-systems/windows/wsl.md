@@ -29,3 +29,8 @@ draft: false
   > $ echo $DOCKER_HOST
   >
   > localhost:2375
+
+#### Theming
+
+- [Moving Your JavaScript Development To Bash On Windows](https://www.smashingmagazine.com/2019/09/moving-javascript-development-bash-windows/) - September 11, 2019
+- [spboyer/dotnetconf-wsl-theme](https://github.com/spboyer/dotnetconf-wsl-theme)

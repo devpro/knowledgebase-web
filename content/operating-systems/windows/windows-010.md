@@ -12,6 +12,18 @@ Command | Action
 `wmic os get caption` | Get OS caption
 `wmic os get osarchitecture` | Get OS architecture
 
+## Applications
+
+### Windows Terminal (preview)
+
+[Introducing Windows Terminal](https://devblogs.microsoft.com/commandline/introducing-windows-terminal/) - May 6th, 2019
+
+Can be installed from Microsoft Store.
+
+[Cascadia Code](https://devblogs.microsoft.com/commandline/cascadia-code/) - September 18th, 2019
+
+Can be also available on MacOS with "brew install cask font-cascadia"
+
 ## Recipes
 
 * [Disable Windows 10 On Screen Keyboard](https://appuals.com/fix-disable-windows-10-screen-keyboard/)

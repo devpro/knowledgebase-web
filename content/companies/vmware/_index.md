@@ -11,6 +11,10 @@ See [vmware.com](https://www.vmware.com/), [wikipedia](https://en.wikipedia.org/
 
 {{% children sort="Name" %}}
 
+## News
+
+- [Introducing Project Pacific](https://blogs.vmware.com/vsphere/2019/08/introducing-project-pacific.html) - August 26, 2019
+
 ## Products
 
 ### NSX-T

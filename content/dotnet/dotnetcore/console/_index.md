@@ -11,6 +11,10 @@ weight: 120
 
 - [Deploying .NET Core apps with command-line interface (CLI) tools](https://docs.microsoft.com/en-us/dotnet/core/deploying/deploy-with-cli)
 
+### Examples
+
+- [dotnet/try-convert](https://github.com/dotnet/try-convert): "Sample tool showing how to build a global tool and also help you convert projects to .NET Core"
+
 ## Recipes
 
 ### Working with processes

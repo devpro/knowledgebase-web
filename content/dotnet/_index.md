@@ -6,7 +6,9 @@ weight: 5
 pre: "<i class='fa fa-dot-circle'></i> "
 ---
 
-See [dotnet.microsoft.com](https://dotnet.microsoft.com/), [docs.microsoft.com](https://docs.microsoft.com/en-us/dotnet/), [GitHub](https://github.com/Microsoft), [Twitter](https://twitter.com/dotnet).
+.NET is a free, cross-platform, open source platform for building all type of applications.
+
+Look at [.NET website](https://dotnet.microsoft.com/), [.NET documentation](https://docs.microsoft.com/en-us/dotnet/), [Microsoft GitHub account](https://github.com/Microsoft) and [.NET Twitter account](https://twitter.com/dotnet).
 
 ## Content
 
@@ -27,11 +29,12 @@ See [dotnet.microsoft.com](https://dotnet.microsoft.com/), [docs.microsoft.com](
 
 ### Videos
 
-- [.NET Videos](https://dotnet.microsoft.com/learn/videos)
+- [Learning videos](https://dotnet.microsoft.com/learn/videos)
+- [Youtube channel](https://www.youtube.com/channel/UCvtT19MZW8dq5Wwfu6B0oxw)
 
 ### Playgrounds
 
-- [The Sandbox](https://docs.microsoft.com/en-us/sandbox/)
+Play with the [Sandbox](https://docs.microsoft.com/en-us/sandbox/).
 
 ### Concepts
 
