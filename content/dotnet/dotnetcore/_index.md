@@ -107,3 +107,7 @@ public void ConfigureServices(IServiceCollection services)
 ## Angular & ASP.NET Core
 
 - [Use the Angular project template with ASP.NET Core](https://docs.microsoft.com/en-us/aspnet/core/client-side/spa/angular)
+
+## .NET Core on AWS
+
+- [aws-samples/cloudmosaic-dotnet](https://github.com/aws-samples/cloudmosaic-dotnet)

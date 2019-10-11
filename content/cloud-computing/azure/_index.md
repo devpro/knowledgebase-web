@@ -71,6 +71,14 @@ Snapshot Debugger
 
 - [Azure Service Fabric Documentation](https://docs.microsoft.com/en-us/azure/service-fabric/)
 
+#### Azure App Configuration
+
+[Documentation](https://docs.microsoft.com/en-us/azure/azure-app-configuration/)
+
+### Azure Sentinel
+
+[Documentation](https://docs.microsoft.com/en-us/azure/sentinel/)
+
 ### Services
 
 #### Cognitive Services

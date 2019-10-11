@@ -20,8 +20,8 @@ See the documentation on [docs.microsoft.com](https://docs.microsoft.com/en-us/a
 - [Configuration](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/configuration/)
 - [Dependency Injection](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/dependency-injection)
 - [Logging](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/logging/)
+- [Multiple environments](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/environments)
 - [Web server implementations](https://docs.microsoft.com/en-us/aspnet/core/fundamentals/servers/)
-
 - [Filters](https://docs.microsoft.com/en-us/aspnet/core/mvc/controllers/filters)
   - [Dependency Injection in Action Filters](https://www.devtrends.co.uk/blog/dependency-injection-in-action-filters-in-asp.net-core)
 - [Host and Deploy](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/index)
@@ -33,6 +33,7 @@ See the documentation on [docs.microsoft.com](https://docs.microsoft.com/en-us/a
 
 - [Host and deploy](https://docs.microsoft.com/en-us/aspnet/core/host-and-deploy/)
 - [Performance Best Practices](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices)
+  - [Performance and reliability](https://docs.microsoft.com/en-us/aspnet/core/performance/performance-best-practices?view=aspnetcore-3.0#performance-and-reliability)
 - [The shared framework](https://natemcmaster.com/blog/2018/08/29/netcore-primitives-2/)
 
 ## Recipes
@@ -68,6 +69,10 @@ See the documentation on [docs.microsoft.com](https://docs.microsoft.com/en-us/a
 
 - [aspnet-api-versioning](https://github.com/Microsoft/aspnet-api-versioning)
 - [Blog of Pi](https://www.blogofpi.com/versioning-web-api/)
+
+### Health checks
+
+- [Xabaril/AspNetCore.Diagnostics.HealthChecks](https://github.com/Xabaril/AspNetCore.Diagnostics.HealthChecks)
 
 ### Packaging
 

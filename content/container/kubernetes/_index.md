@@ -94,3 +94,8 @@ See [azure.microsoft.com](https://azure.microsoft.com/en-us/services/kubernetes-
 > Pivotal Container Service (PKS) is an enterprise Kubernetes platform, architected for rapid results, scaling, and reliability on any infrastructure.
 
 See [pivotal.io](https://pivotal.io/platform/pivotal-container-service).
+
+### Deployment examples
+
+- [cmeiklejohn/kubernetes-hello-world-example](https://github.com/cmeiklejohn/kubernetes-hello-world-example)
+- [Kubernetes on Google Cloud Platform: deploy your app with Helm](https://www.padok.fr/en/blog/kubernetes-google-cloud-platform-app-helm)

@@ -13,3 +13,8 @@ pre: "<i class='fa fa-concierge-bell'></i> "
 ## Specifications
 
 - [Open Service Broker Api](https://www.openservicebrokerapi.org/)
+
+## SaaS tools
+
+- [stripe](https://stripe.com) for online payments
+- [okta](https://developer.okta.com/) for authentication

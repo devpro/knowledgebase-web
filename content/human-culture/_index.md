@@ -19,3 +19,7 @@ pre: "<i class='fa fa-user-circle'></i> "
 - [Moore's law](https://en.wikipedia.org/wiki/Moore's_law)
 
   > Moore's law is the observation that the number of transistors in a dense integrated circuit doubles about every two years
+
+## Oerations
+
+- [Site Reliability Engineering](https://en.wikipedia.org/wiki/Site_Reliability_Engineering)

@@ -41,3 +41,5 @@ Can be also available on MacOS with "brew install cask font-cascadia"
     * Remove "DisableLockWorkStation"
   * Open Local Group Policy Editor: `gpedit.msc`
     * Disable "Remove Lock Computer" (in "Administrative Templates/System/Ctrl+Alt+Del Options")
+
+* [How to turn your Windows 10 computer into a DLNA streaming server](https://www.thewindowsclub.com/turn-windows-10-computer-dlna-streaming-server)
