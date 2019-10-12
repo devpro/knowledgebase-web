@@ -6,3 +6,9 @@ weight: 20
 ---
 
 See [Cloud Native Glossary](https://www.cloudfoundry.org/cloud-native-glossary/).
+
+## CNAB (Cloud Native Application Bundle)
+
+> A spec for packaging distributed apps. CNABs facilitate the bundling, installing and managing of container-native apps — and their coupled services.
+
+[cnab.io](https://cnab.io/)

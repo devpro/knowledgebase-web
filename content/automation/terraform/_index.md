@@ -8,3 +8,9 @@ weight: 80
 > Terraform enables you to safely and predictably create, change, and improve infrastructure. It is an open source tool that codifies APIs into declarative configuration files that can be shared amongst team members, treated as code, edited, reviewed, and versioned.
 
 See [terraform.io](https://www.terraform.io/), [hashicorp.com](https://www.hashicorp.com/products/terraform/), [GitHub](https://github.com/hashicorp/terraform).
+
+## Recipes
+
+### Azure
+
+[Cellenza - Déployer un process Serverless avec Terraform et Azure DevOps](https://blog.cellenza.com/devops/deployer-un-process-serverless-avec-terraform-et-azure-devops/) - September 4, 2019

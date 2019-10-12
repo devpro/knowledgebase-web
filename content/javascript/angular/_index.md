@@ -43,6 +43,10 @@ See [angular.io](https://angular.io/), [API](https://angular.io/api).
 
 ## Recipes
 
+### Authentication
+
+- [oktadeveloper/okta-angular-mongodb-hangman-example](https://github.com/oktadeveloper/okta-angular-mongodb-hangman-example)
+
 ### CI CD
 
 #### Sonar
