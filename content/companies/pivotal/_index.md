@@ -11,3 +11,7 @@ draft: false
 > Build containers from source code for Kubernetes. Pivotal Build Service automates container creation, management, and governance at enterprise scale.
 
 [source](https://pivotal.io/pivotal-build-service)
+
+## Webinars
+
+- [Using Windows Clusters on Kubernetes for Legacy .NET Applications Webinar](https://content.pivotal.io/webinars/sep-19-using-windows-clusters-on-kubernetes-for-legacy-net-applications-webinar) - Sep 19, 2019

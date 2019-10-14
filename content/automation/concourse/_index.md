@@ -26,6 +26,7 @@ weight: 30
 ### Presentations
 
 - [A Pivotal Introduction to Concourse CI](https://www.youtube.com/watch?v=0bi_EWzhPvs&amp=&feature=youtu.be) - October 2, 2019
+- [Concourse CI 102 - Taylor Silva & Scott Foerster, Pivotal](https://www.youtube.com/watch?v=H-4pvC7t2AI) - Sep 19, 2019
 - Introduction (French): [CD meetup](https://www.youtube.com/watch?v=IytJAamVdCs), [Devoxx](https://www.youtube.com/watch?v=moiSC3gmCew), [Paris Container Day](https://www.youtube.com/watch?v=Qv9FsIlyN-U) ([GitHub](https://github.com/Kehrlann/concourse-demo)) March 22, 2018
 
 ### Tutorials

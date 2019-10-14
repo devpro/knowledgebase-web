@@ -111,3 +111,7 @@ public void ConfigureServices(IServiceCollection services)
 ## .NET Core on AWS
 
 - [aws-samples/cloudmosaic-dotnet](https://github.com/aws-samples/cloudmosaic-dotnet)
+
+### .NET Core & Istio
+
+- "Deploy and Run a Distributed Cloud Native system using Istio, Kubernetes & .NET core" [source code](https://github.com/sreenivasmrpivot/ProgNet2019K8sIstio)
