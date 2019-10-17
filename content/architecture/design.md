@@ -13,7 +13,10 @@ weight: 30
 
 ## DDD (Domain Driven Design)
 
-DDD is more and more used when creating new applications, you can know more about it by looking at the page on [wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design).
+Read:
+
+- Definition on [wikipedia](https://en.wikipedia.org/wiki/Domain-driven_design)
+- Starting point with [Tackle Business Complexity in a Microservice with DDD and CQRS Patterns](https://docs.microsoft.com/en-us/dotnet/architecture/microservices/microservice-ddd-cqrs-patterns/)
 
 Code examples:
 

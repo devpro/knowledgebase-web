@@ -7,6 +7,10 @@ weight: 120
 
 ## Learn
 
+### Libraries
+
+- [commandlineparser/commandline](https://github.com/commandlineparser/commandline): "C# command line parser that brings standardized *nix getopt style, for .NET"
+
 ### Deployment
 
 - [Deploying .NET Core apps with command-line interface (CLI) tools](https://docs.microsoft.com/en-us/dotnet/core/deploying/deploy-with-cli)
