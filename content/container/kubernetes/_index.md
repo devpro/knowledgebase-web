@@ -7,7 +7,7 @@ weight: 40
 
 > Kubernetes (K8s) is an open-source system for automating deployment, scaling, and management of containerized applications.
 
-See [kubernetes.io](https://kubernetes.io/), [cheatsheet](https://devpro.github.io/kubernetes/cheatsheet.html).
+See [kubernetes.io](https://kubernetes.io/), [Documentation](https://kubernetes.io/docs/home/), [cheatsheet](https://devpro.github.io/kubernetes/cheatsheet.html).
 
 ## Content
 

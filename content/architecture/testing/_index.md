@@ -6,4 +6,12 @@ draft: true
 
 ## Libraries
 
-[Puppeteer](https://github.com/GoogleChrome/puppeteer)
+### Pupeteer
+
+[GoogleChrome/puppeteer](https://github.com/GoogleChrome/puppeteer)
+
+### Cypress
+
+> Fast, easy and reliable testing for anything that runs in a browser.
+
+[cypress.io](https://www.cypress.io/)

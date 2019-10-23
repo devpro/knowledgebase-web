@@ -43,3 +43,10 @@ weight: 50
   - ["Event Storming technique for decomposing monoliths. Games are not just for kids" by Rohit Kelapure](https://speakerdeck.com/rkelapure/event-storming)
 
 - [TDD](https://en.wikipedia.org/wiki/Test-driven_development) (Test Driven Development)
+
+## Deployments
+
+- Canary release
+
+  - [Martin Fowler website article](https://martinfowler.com/bliki/CanaryRelease.html) - June 25, 2014
+  - [Lessons learned and best practices from Google and Waze](https://cloud.google.com/blog/products/devops-sre/canary-analysis-lessons-learned-and-best-practices-from-google-and-waze) - January 14, 2019
