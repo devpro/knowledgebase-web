@@ -2,7 +2,9 @@ version: 2
 jobs:
   build:
     docker:
-      - image: cibuilds/hugo:latest
+      # 2019-10-23 BTH: had to fix the version as there is a breaking change in latest (=0.59)
+      # See https://hub.docker.com/r/cibuilds/hugo, https://github.com/cibuilds/hugo
+      - image: cibuilds/hugo:0.58.3
 
     steps:
       - checkout
