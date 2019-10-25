@@ -5,6 +5,10 @@ draft: false
 weight: 30
 ---
 
+## Inversion of control & dependency injection
+
+- [Martin Fowler website page](https://www.martinfowler.com/articles/injection.html) - January 23, 2004
+
 ## Microservice
 
 > Microservices are small, modular, and independently deployable services. Docker containers (for Linux and Windows) simplify deployment and testing by bundling a service and its dependencies into a single unit, which is then run in an isolated environment.

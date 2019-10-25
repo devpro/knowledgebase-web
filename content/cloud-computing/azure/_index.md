@@ -37,6 +37,7 @@ Azure is the Cloud Platform of Microsoft.
 #### Virtual Network
 
 - [Azure documentation](https://docs.microsoft.com/en-us/azure/virtual-network/virtual-networks-overview)
+  - [Public IP address prefix](https://docs.microsoft.com/en-us/azure/virtual-network/public-ip-address-prefix)
 
 #### Network Security Groups (NSG)
 
@@ -78,6 +79,10 @@ Snapshot Debugger
 ### Azure Sentinel
 
 [Documentation](https://docs.microsoft.com/en-us/azure/sentinel/)
+
+### Azure Virtual Desktop
+
+[Service page](https://azure.microsoft.com/en-us/services/virtual-desktop/)
 
 ### Services
 

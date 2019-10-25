@@ -50,3 +50,9 @@ weight: 50
 
   - [Martin Fowler website article](https://martinfowler.com/bliki/CanaryRelease.html) - June 25, 2014
   - [Lessons learned and best practices from Google and Waze](https://cloud.google.com/blog/products/devops-sre/canary-analysis-lessons-learned-and-best-practices-from-google-and-waze) - January 14, 2019
+
+## Testing
+
+- A/B testing
+
+  - [wikipedia](https://en.wikipedia.org/wiki/A/B_testing)

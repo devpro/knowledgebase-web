@@ -126,6 +126,14 @@ Internals:
 - [Presentation](https://www.mongodb.com/transactions)
 - [Documentation](https://docs.mongodb.com/manual/core/transactions/)
 
+#### High availability
+
+- [MongoDB and Jepsen](https://www.mongodb.com/jepsen)
+  - [jepsen.io](http://jepsen.io/)
+  - [jepsen-io/jepsen](https://github.com/jepsen-io/jepsen)
+  - [wikipedia Raft](https://en.wikipedia.org/wiki/Raft_(computer_science))
+  - [Raft - The Understandable Distributed Protocol](https://www.infoq.com/presentations/raft/)
+
 ### Recipes
 
 - Store large data: [GridFS](https://docs.mongodb.com/manual/core/gridfs/)

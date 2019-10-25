@@ -36,6 +36,10 @@ See [angular.io](https://angular.io/), [API](https://angular.io/api).
 - [github.com/devpro/dojo-angular-beginner](https://github.com/devpro/dojo-angular-beginner/blob/master/README.md)
 - [web.dev](https://web.dev/angular)
 
+### Libraries
+
+- NgRx: [ngrx.io](https://ngrx.io/), [Documentation](https://ngrx.io/docs)
+
 ### Tools
 
 - Visual Studio Code
