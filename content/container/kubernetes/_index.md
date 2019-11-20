@@ -89,6 +89,8 @@ See [cloud.google.com](https://cloud.google.com/kubernetes-engine/).
 
 See [azure.microsoft.com](https://azure.microsoft.com/en-us/services/kubernetes-service/).
 
+Also see [Empowering cloud-native developers on Kubernetes anywhere](https://cloudblogs.microsoft.com/opensource/2019/11/19/microsoft-kubecon-2019-announcements/) as an annoucement on KubeCon 2019 (November).
+
 ### Pivotal Container Service (PKS)
 
 > Pivotal Container Service (PKS) is an enterprise Kubernetes platform, architected for rapid results, scaling, and reliability on any infrastructure.

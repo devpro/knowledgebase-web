@@ -16,7 +16,7 @@ Source code is available on [GitHub](https://github.com/grpc/grpc-dotnet).
 
 ## Learn
 
-Look at the documentation on [docs.microsoft.com](https://docs.microsoft.com/en-us/aspnet/core/grpc/?view=aspnetcore-3.0).
+Look at the documentation on [docs.microsoft.com](https://docs.microsoft.com/en-us/aspnet/core/grpc/?view=aspnetcore-3.0) and [gRPC vs HTTP APIs](https://devblogs.microsoft.com/aspnet/grpc-vs-http-apis/).
 
 ## Tutorials
 

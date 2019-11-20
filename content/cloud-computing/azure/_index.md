@@ -21,6 +21,7 @@ Azure is the Cloud Platform of Microsoft.
 - [Naming conventions for Azure resources](https://docs.microsoft.com/en-us/azure/architecture/best-practices/naming-conventions)
 - [Security](https://docs.microsoft.com/en-us/azure/security/)
 - [Azure virtual datacenter: A network perspective](https://docs.microsoft.com/en-us/azure/architecture/vdc/networking-virtual-datacenter)
+- [Microsoft Cloud Adoption Framework for Azure](https://azure.microsoft.com/en-us/cloud-adoption-framework/)
 
 ## Reference
 

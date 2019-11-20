@@ -2,6 +2,7 @@
 title: "Azure Pipelines"
 date: 2019-09-23T11:51:21+02:00
 draft: false
+weight: 10
 ---
 
 [Official site](https://azure.microsoft.com/fr-fr/services/devops/pipelines/)
@@ -26,3 +27,4 @@ draft: false
 ### Code coverage
 
 * [Generate Code Coverage Reports with ReportGenerator in Azure DevOps](https://ardalis.com/generate-code-coverage-reports-with-reportgenerator-in-azure-devops) - July 17, 2019
+* [Uploading to Codecov just got easier](https://devblogs.microsoft.com/devops/uploading-to-codecov-just-got-easier/) - November 13, 2019
