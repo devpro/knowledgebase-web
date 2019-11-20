@@ -2,6 +2,7 @@
 title: "Azure Api Management"
 date: 2019-09-13T17:56:30+02:00
 draft: false
+weight: 10
 ---
 
 **Main**: [docs.microsoft.com](https://docs.microsoft.com/en-us/azure/api-management/)

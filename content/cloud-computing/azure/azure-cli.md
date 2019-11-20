@@ -2,6 +2,7 @@
 title: "Azure CLI"
 date: 2019-09-13T17:56:38+02:00
 draft: false
+weight: 20
 ---
 
 ## Quick start

@@ -2,6 +2,7 @@
 title: "Azure Functions"
 date: 2019-09-13T17:56:23+02:00
 draft: false
+weight: 40
 ---
 
 ## Durable functions

@@ -2,6 +2,7 @@
 title: "Azure PowerShell"
 date: 2019-09-13T17:56:09+02:00
 draft: false
+weight: 60
 ---
 
 **Main**: [microsoft.com/powershell/azure](https://docs.microsoft.com/en-us/powershell/azure)

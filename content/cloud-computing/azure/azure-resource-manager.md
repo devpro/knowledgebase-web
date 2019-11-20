@@ -2,6 +2,7 @@
 title: "Azure Resource Manager"
 date: 2019-09-13T17:56:47+02:00
 draft: false
+weight: 65
 ---
 
 Azure Resource Manager (ARM) lets you automate your Azure infrastructure.

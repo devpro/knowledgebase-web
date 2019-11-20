@@ -2,6 +2,7 @@
 title: "Azure WebJobs"
 date: 2019-09-13T17:56:18+02:00
 draft: false
+weight: 90
 ---
 
 ## Learn
