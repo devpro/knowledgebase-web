@@ -134,6 +134,10 @@ Internals:
   - [wikipedia Raft](https://en.wikipedia.org/wiki/Raft_(computer_science))
   - [Raft - The Understandable Distributed Protocol](https://www.infoq.com/presentations/raft/)
 
+#### Data types
+
+[Quick Start: BSON Data Types - ObjectId](https://www.mongodb.com/blog/post/quick-start-bson-data-types--objectid)
+
 ### Recipes
 
 - Store large data: [GridFS](https://docs.mongodb.com/manual/core/gridfs/)

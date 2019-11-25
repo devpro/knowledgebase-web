@@ -15,11 +15,11 @@ See [kubernetes.io](https://kubernetes.io/), [Documentation](https://kubernetes.
 
 ## Learn
 
-[Learning Path from Microsoft](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/)
-
 ### Backgroung
 
 Kubernetes was started by Google and, with its v1.0 release in July 2015, Google donated it to the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/).
+
+See Microsoft [What is Kubernetes?](https://aka.ms/k8slearning).
 
 ### Key elements
 
@@ -29,11 +29,60 @@ Controllers
 
 Deployments
 
-Services
+A [Services](https://kubernetes.io/docs/concepts/services-networking/service/) is an "abstract way to expose an application running on a set of Pods as a network service".
+
+#### External traffic
+
+- [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
+
+### API
+
+- [Overview](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.15/)
+
+### Learning path
+
+- [Microsoft](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/)
 
 ### Learning resources
 
 - [List](https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU/edit#gid=0) from [@kubernauts](https://twitter.com/kubernauts)
+- [Game of Pods](https://kodekloud.com/p/game-of-pods)
+- [awesome-kubernetes curated list](https://ramitsurana.github.io/awesome-kubernetes/)
+
+### Posts
+
+- [Key Kubernetes Concepts](https://towardsdatascience.com/key-kubernetes-concepts-62939f4bc08e)
+
+### Tutorials
+
+- [Running Background Tasks With Batch-Jobs](https://medium.com/google-cloud/kubernetes-running-background-tasks-with-batch-jobs-56482fbc853)
+- [Superviser son cluster Kubernetes avec Prometheus et Grafana](https://blog.syloe.com/superviser-cluster-kubernetes-avec-grafana-et-prometheus/)
+
+### Training
+
+#### Online free training
+
+- :heavy_check_mark: Intruqt [Kubernetes concepts](https://instruqt.com/public/tracks/kubernetes-concepts)
+- Microsoft [Introduction to Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/index)
+- Linux Foundation [Introduction to Kubernetes (LFS158)](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)
+- Cognitive Class [Container & Kubernetes Essentials with IBM Cloud](https://cognitiveclass.ai/courses/kubernetes-course)
+- Udacity [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
+
+#### Webinars
+
+- Microsoft [Video series with Brendan Burns](https://aka.ms/k8s/lightboard)
+- [Kubernetes Webinars](https://www.youtube.com/playlist?list=PLF3s2WICJlqOiymMaTLjwwHz-MSVbtJPQ&ref=hackr.io)
+
+### Recipes
+
+#### Service Mesh
+
+- [Kubernetes Service Mesh: A Comparison of Istio, Linkerd and Consul](https://platform9.com/blog/kubernetes-service-mesh-a-comparison-of-istio-linkerd-and-consul/)
+
+### Samples
+
+- OpenShift team [Kubernetes By Example](http://kubernetesbyexample.com/)
+- [sixeyed/k8s-win](https://github.com/sixeyed/k8s-win)
 
 ### Certifications
 
@@ -42,40 +91,27 @@ Services
 - [Study guide from AutSoft](https://blog.autsoft.hu/certified-kubernetes-administrator/)
 - [Review from Rieckpil](https://rieckpil.de/review-ckad-certified-kubernetes-application-developer-program/)
 
-## Tools
+## Ecosystem
+
+### Tools
 
 - [k14s](https://k14s.io/)
 
-## API
+### Packaging
 
-- [Overview](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.14/)
-
-## Posts
-
-- [Key Kubernetes Concepts](https://towardsdatascience.com/key-kubernetes-concepts-62939f4bc08e)
-
-## Tutorials
-
-- [Running Background Tasks With Batch-Jobs](https://medium.com/google-cloud/kubernetes-running-background-tasks-with-batch-jobs-56482fbc853)
-- [Superviser son cluster Kubernetes avec Prometheus et Grafana](https://blog.syloe.com/superviser-cluster-kubernetes-avec-grafana-et-prometheus/)
-
-## Samples
-
-- [sixeyed/k8s-win](https://github.com/sixeyed/k8s-win)
-
-## Packaging
-
-### kpack
+#### kpack
 
 [Video TGI Kubernetes 091](https://www.youtube.com/watch?v=4zkRX9PSJ5k&feature=youtu.be)
 
-## Deployment
+## Managed environment
 
 ### Google Kubernetes Engine (GKE)
 
 > Reliable, efficient, and secured way to run Kubernetes clusters
 
 See [cloud.google.com](https://cloud.google.com/kubernetes-engine/).
+
+Learning: [Getting Started by Coursera](https://www.coursera.org/learn/google-kubernetes-engine).
 
 ### Amazon Elastic Kubernetes Service (Amazon EKS)
 

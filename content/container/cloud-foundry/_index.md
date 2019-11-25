@@ -85,7 +85,7 @@ See [cloudfoundry.org](https://www.cloudfoundry.org/), [GitHub](https://github.c
 
 - [GrootFS](https://github.com/cloudfoundry/grootfs) is the container root filesystem management component for Garden. A container root filesystem or rootfs is often referred to as an _image_. See [Blog entry](https://www.cloudfoundry.org/blog/grootfs-container-image-management-cloud-foundry/).
 
-- [NATS](https://docs.cloudfoundry.org/concepts/architecture/messaging-nats.html) is a lightweight publish-subscribe and distributed queueing messaging system written in Ruby ((GitHub)[https://github.com/nats-io/ruby-nats]).
+- [NATS](https://docs.cloudfoundry.org/concepts/architecture/messaging-nats.html) is a lightweight publish-subscribe and distributed queueing messaging system written in Ruby ([GitHub](https://github.com/nats-io/ruby-nats)).
 
 - [UAA](https://docs.cloudfoundry.org/concepts/architecture/uaa.html) stands for User Account and Authentication.
 

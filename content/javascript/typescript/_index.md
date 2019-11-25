@@ -14,6 +14,10 @@ See [typescriptlang.org](https://www.typescriptlang.org/).
 - [typescriptlang.org/docs](https://www.typescriptlang.org/docs/home.html)
 - [github.com/Microsoft/TypeScript](https://github.com/Microsoft/TypeScript)
 
+### Versions
+
+- [TypeScript 3.7](https://www.typescriptlang.org/docs/handbook/release-notes/typescript-3-7.html)
+
 ### Quickstart
 
 #### 5 minutes tutorial
