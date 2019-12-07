@@ -13,11 +13,15 @@ weight: 35
 
 ### Installation
 
+Start with the [installation guide](https://helm.sh/docs/intro/install/).
+
 On Windows, get the zip file from the Release page and extract the exe file to a folder defined in the PATH environment variable.
 
-Confirm it is ok by running `helm version`.
+Make sure helm is available from the command line: `helm version`.
 
 ### Update repository
+
+Then follow the [quickstart guide](https://helm.sh/docs/intro/quickstart/).
 
 Add at least one repository, for instance `helm repo add stable https://kubernetes-charts.storage.googleapis.com/`.
 
@@ -56,3 +60,5 @@ Command | Action
 `helm show chart stable/xxxx` | Get a simple idea of the features of chart stable/xxxx (stable/mysql for example)
 `helm list` | See what has been released with Helm
 `helm help xxx` | Get help message on xxx command (install for example)
+`helm ls` | What has been released using Helm
+`helm uninstall <name>` | Uninstall a release
