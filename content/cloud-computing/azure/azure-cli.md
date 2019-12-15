@@ -17,6 +17,18 @@ You can install the Azure CLI on any platform, Windows or Linux (including Windo
 
 ### First steps
 
+- Check the CLI version
+
+  ```bash
+  az --version
+  ```
+
+- Get help information
+
+  ```bash
+  az --help
+  ```
+
 - Login to your Azure account
 
   ```bash
@@ -31,8 +43,8 @@ You can install the Azure CLI on any platform, Windows or Linux (including Windo
 
 - Display current subscription that is currenly set
 
-```bash
-az account show
-```
+  ```bash
+  az account show
+  ```
 
 - Example of use: [Create an App Service app and deploy files with FTP using Azure CLI](https://docs.microsoft.com/en-us/azure/app-service/scripts/cli-deploy-ftp)
