@@ -27,6 +27,16 @@ Additions:
 
 ### Driver Booster
 
+### Visual Studio 2019
+
+Extensions:
+
+- [Microsoft Code Analysis 2019](https://marketplace.visualstudio.com/items?itemName=VisualStudioPlatformTeam.MicrosoftCodeAnalysis2019)
+
+### Windows terminal
+
+Available from Windows store.
+
 ## Troubleshoot
 
 ### Memory usage
