@@ -25,6 +25,14 @@ Additions:
 
 [Get started](https://docs.docker.com/docker-for-windows/) [Install](https://docs.docker.com/docker-for-windows/install/)
 
+### dotnet
+
+[dotnet/format](https://github.com/dotnet/format)
+
+```dos
+dotnet tool install -g dotnet-format
+```
+
 ### Driver Booster
 
 ### Visual Studio 2019

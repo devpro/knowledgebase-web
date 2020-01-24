@@ -31,3 +31,9 @@ Example of pipelines in [MicrosoftDocs](https://github.com/MicrosoftDocs) GitHub
 ### Tutorials
 
 - [Tutorial: Immutable infrastructure for Azure, using VSTS, Terraform, Packer and Ansible](https://cloudblogs.microsoft.com/opensource/2018/05/23/immutable-infrastructure-azure-vsts-terraform-packer-ansible/) May 23, 2018
+
+## Administration
+
+### Extension
+
+- [SonarCloud](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarcloud)
