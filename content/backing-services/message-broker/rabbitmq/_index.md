@@ -8,14 +8,18 @@ draft: false
 
 See [rabbitmq.com](https://www.rabbitmq.com/), [GitHub](https://github.com/rabbitmq), [Twitter](https://twitter.com/RabbitMQ).
 
+## Content
+
+{{% children sort="Name" %}}
+
 ## Learn
 
-See official [documentation](https://www.rabbitmq.com/documentation.html).
+See official [rabbitmq.com/documentation](https://www.rabbitmq.com/documentation.html).
 
-### Donload
+### Download
 
-See [download](https://www.rabbitmq.com/download.html).
+See [rabbitmq.com/download](https://www.rabbitmq.com/download.html).
 
 ### Get started
 
-See [tutorials](https://www.rabbitmq.com/getstarted.html).
+See [rabbitmq.com/getstarted](https://www.rabbitmq.com/getstarted.html).

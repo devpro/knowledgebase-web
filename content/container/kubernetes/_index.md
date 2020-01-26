@@ -91,6 +91,10 @@ A [Services](https://kubernetes.io/docs/concepts/services-networking/service/) i
 - [Study guide from AutSoft](https://blog.autsoft.hu/certified-kubernetes-administrator/)
 - [Review from Rieckpil](https://rieckpil.de/review-ckad-certified-kubernetes-application-developer-program/)
 
+TODO :
+
+- [Preparing for the Certified Kubernetes Administrator (CKA) Program](https://dzone.com/articles/preparing-for-the-certified-kubernetes-administrat?edition=542303&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=cloud%202019-12-09)
+
 ## Ecosystem
 
 ### Tools
