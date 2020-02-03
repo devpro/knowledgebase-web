@@ -34,6 +34,6 @@ Example of pipelines in [MicrosoftDocs](https://github.com/MicrosoftDocs) GitHub
 
 ## Administration
 
-### Extension
+### Extensions
 
 - [SonarCloud](https://marketplace.visualstudio.com/items?itemName=SonarSource.sonarcloud)
