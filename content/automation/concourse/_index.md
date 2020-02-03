@@ -24,8 +24,14 @@ Start with the [official documentation](https://concourse-ci.org/docs.html).
 #### Run locally in 5 minutes
 
 - Download the container configuration: `wget https://concourse-ci.org/docker-compose.yml`
-- Start Docker Compose: `docker-compose up -d`
+- Start Docker Compose: `docker-compose up -d` (images can be seen with `docker images`)
 - Open [localhost:8080](http://localhost:8080/) (login with test/test)
+  - _Update (2020-03-02): login doesn't work for me on Firefox but works with Chrome_
+- Look at the workers:  `fly -t localhost workers`
+- Stop the containers: `docker-compose down`
+- Stot and clean-up the resources: `docker-compose down --volumes` (volumes can be checked with `docker volume ls`)
+
+To go further, feel free to have a look at [devpro/concourse-samples](https://github.com/devpro/concourse-samples).
 
 ### Presentations
 
@@ -52,6 +58,7 @@ Start with the [official documentation](https://concourse-ci.org/docs.html).
 
 - [Official examples](https://concourse-ci.org/examples.html)
 - [pivotalservices/concourse-pipeline-samples](https://github.com/pivotalservices/concourse-pipeline-samples)
+- [Aptomi/concourse-pipelines](https://github.com/Aptomi/concourse-pipelines)
 
 ## Hosting
 
@@ -61,6 +68,9 @@ Start with the [official documentation](https://concourse-ci.org/docs.html).
 
 ### Kubernetes
 
+#### Helm
+
+- [concourse/concourse-chart](https://github.com/concourse/concourse-chart)
 - [Installing Concourse 5.0 on Kubernetes using Helm](https://medium.com/concourse-ci/installing-concourse-5-0-on-pivotal-container-service-using-helm-9f20e4e1b8bf) by Josh Ghiloni - Mar 29, 2019
 
 ### VM
@@ -75,3 +85,13 @@ Start with the [official documentation](https://concourse-ci.org/docs.html).
 ### Pivotal
 
 - [Pivotal Concourse](https://docs.pivotal.io/p-concourse/v5/)
+
+#### Cloud Foundation (GCP)
+
+- [GoogleCloudPlatform/cloud-foundation-toolkit](https://github.com/GoogleCloudPlatform/cloud-foundation-toolkit/tree/master/infra)
+
+## Tools
+
+### Visual Studio Code
+
+- Extension made by Pivotal: [Concourse CI Pipeline Editor](https://marketplace.visualstudio.com/items?itemName=Pivotal.vscode-concourse)
