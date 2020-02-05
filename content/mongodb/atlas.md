@@ -20,3 +20,7 @@ See [mongodb.com](https://www.mongodb.com/cloud/atlas), [cloud.mongodb.com](http
 ### Tutorials
 
 - [Tutorial Kit](https://resources.mongodb.com/mongodb-atlas-tutorial-kit)
+
+## Integration
+
+- [mongodb/mongodb-atlas-service-broker](https://github.com/mongodb/mongodb-atlas-service-broker)

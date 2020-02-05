@@ -43,7 +43,6 @@ To go further, feel free to have a look at [devpro/concourse-samples](https://gi
 ### Tutorials
 
 - [Concourse Tutorial by Stark & Wayne](https://concoursetutorial.com/)
-- [Continuous Delivery of a Microservice Architecture using Concourse.ci, Cloud Foundry and Artifactory](https://specify.io/how-tos/concourse-ci-continious-integration-and-delivery-of-microservices)
 - [Using Concourse CI/CD to publish Helm charts to ChartMuseum and report results to Slack (part #1)](https://medium.com/aptomi/using-concourse-ci-cd-to-publish-helm-charts-to-chartmuseum-and-report-results-to-slack-part-1-19d64dc7394b) - Feb 19, 2019
 
 ### Roadmap
@@ -70,13 +69,42 @@ To go further, feel free to have a look at [devpro/concourse-samples](https://gi
 
 #### Helm
 
-- [concourse/concourse-chart](https://github.com/concourse/concourse-chart)
+Official chart: [concourse.github.io/concourse-chart](https://concourse.github.io/concourse-chart/) ([concourse/concourse-chart](https://github.com/concourse/concourse-chart))
+
+```bash
+# old version: works on AKS (just need to wait for all pods to be green, with attachment to pvc and startup)
+helm install my-name stable/concourse
+
+# have a quick look at the web interface
+kubectl get pods --namespace default -l "app=my-name-web" -o jsonpath="{.items[0].metadata.name}"
+kubectl port-forward --namespace default my-name-web-xxxx-xxxx 8080:8080
+
+# new version: doesn't work (Error: unable to build kubernetes objects from release manifest: error validating "": error validating data: [unknown object type "nil" in ConfigMap.data.config-rbac.yml, unknown object type "nil" in ConfigMap.data.main-team.yml])
+helm repo add concourse https://concourse-charts.storage.googleapis.com/
+helm install my-name concourse/concourse
+
+# uninstall the chart
+helm delete my-name
+# clean-up the persistant volumes
+```
+
+Other articles:
+
 - [Installing Concourse 5.0 on Kubernetes using Helm](https://medium.com/concourse-ci/installing-concourse-5-0-on-pivotal-container-service-using-helm-9f20e4e1b8bf) by Josh Ghiloni - Mar 29, 2019
+
+### Vagrant
+
+- [Continuous Delivery of a Microservice Architecture using Concourse.ci, Cloud Foundry and Artifactory](https://specify.io/how-tos/concourse-ci-continious-integration-and-delivery-of-microservices)
 
 ### VM
 
 - [How To Install Concourse CI on Ubuntu 16.04](https://www.digitalocean.com/community/tutorials/how-to-install-concourse-ci-on-ubuntu-16-04) - May 26, 2017
 - [concourse/concourse-bosh-deployment](https://github.com/concourse/concourse-bosh-deployment)
+
+### Azure
+
+- [azure.microsoft.com](https://azure.microsoft.com/en-us/resources/templates/concourse-ci/) ([Azure/azure-quickstart-templates](https://github.com/Azure/azure-quickstart-templates/tree/master/concourse-ci/)): an outdated but still working template
+- [pivotal-cf/azure-concourse](https://github.com/pivotal-cf/azure-concourse)
 
 ### SaaS
 

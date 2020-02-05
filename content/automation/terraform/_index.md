@@ -9,6 +9,10 @@ weight: 80
 
 See [terraform.io](https://www.terraform.io/), [hashicorp.com](https://www.hashicorp.com/products/terraform/), [GitHub](https://github.com/hashicorp/terraform).
 
+## Providers
+
+- [terraform-providers/terraform-provider-mongodbatlas](https://github.com/terraform-providers/terraform-provider-mongodbatlas)
+
 ## Recipes
 
 ### Azure

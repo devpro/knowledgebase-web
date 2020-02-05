@@ -18,4 +18,4 @@ See [vagrantup.com](https://www.vagrantup.com/)
 - [Boxes](https://app.vagrantup.com/boxes/search?provider=hyperv)
 - [Limitations](https://www.vagrantup.com/docs/hyperv/limitations.html)
 - [FollowKMan - Vagrant up on Windows 10 with Hyper-V](https://followkman.com/2016/07/27/vagrant-up-on-windows-10-with-hyper-v/)
-- [Learning to Use Vagrant on Windows 10](https://blogs.technet.microsoft.com/virtualization/2017/07/06/vagrant-and-hyper-v-tips-and-tricks/)
+- [Vagrant and Hyper-V -- Tips and Tricks](https://techcommunity.microsoft.com/t5/virtualization/vagrant-and-hyper-v-tips-and-tricks/ba-p/382373) - March 21, 2019
