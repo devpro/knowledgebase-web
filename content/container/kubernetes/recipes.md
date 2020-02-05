@@ -22,3 +22,15 @@ If [drupal.local](http://drupal.local/) doesn't work, look at the services state
 ### Additional reading on Drupal
 
 - Article from Jeff Geerling on [Running Drupal in Kubernetes with Docker in production](https://www.jeffgeerling.com/blog/2019/running-drupal-kubernetes-docker-production) _April 12, 2019_
+
+## Setup secured external access
+
+### NGINX Ingress, cert-manager and let's encrypt
+
+In Kubernetes, [Ingress](https://kubernetes.io/docs/concepts/services-networking/ingress/) is "an API object that manages external access to the services in a cluster, typically HTTP", it  "can provide load balancing, SSL termination and name-based virtual hosting".
+
+Additional readings:
+
+- Bitnami [Secure Kubernetes Services With Ingress, TLS And Let's Encrypt](https://docs.bitnami.com/kubernetes/how-to/secure-kubernetes-services-with-ingress-tls-letsencrypt/)
+- Microsoft [Create an HTTPS ingress controller on Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/ingress-tls)
+- cert-manager [Securing Ingress Resources](https://cert-manager.io/docs/usage/ingress/)

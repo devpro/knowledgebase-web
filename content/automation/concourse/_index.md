@@ -19,6 +19,8 @@ See [concourse-ci.org](https://concourse-ci.org/), [GitHub](https://github.com/c
 
 Start with the [official documentation](https://concourse-ci.org/docs.html).
 
+Take a look at the [Resource Types](https://resource-types.concourse-ci.org/).
+
 ### Quick start
 
 #### Run locally in 5 minutes
