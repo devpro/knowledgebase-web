@@ -2,6 +2,7 @@
 title: "Events"
 date: 2019-09-27T15:48:11+02:00
 draft: false
+weight: 20
 ---
 
 ## 2019
