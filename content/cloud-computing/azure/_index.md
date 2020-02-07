@@ -124,3 +124,7 @@ Snapshot Debugger
 ### Quickstart
 
 You can create a [free account](https://azure.microsoft.com/en-us/free/).
+
+## Tools
+
+- Excellent online tool: [Azure Resource Explorer](https://resources.azure.com/)
