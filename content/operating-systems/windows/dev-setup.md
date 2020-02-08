@@ -35,6 +35,10 @@ dotnet tool install -g dotnet-format
 
 ### Driver Booster
 
+### OpenSSH
+
+[OpenSSH in Windows](https://docs.microsoft.com/en-us/windows-server/administration/openssh/openssh_overview)
+
 ### Visual Studio 2019
 
 Extensions:
