@@ -2,6 +2,7 @@
 title: "Node.js"
 date: 2019-09-23T22:52:51+02:00
 draft: false
+weight: 60
 ---
 
 > Node.js is a JavaScript runtime built on Chrome's V8 JavaScript engine.

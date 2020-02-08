@@ -1,7 +1,8 @@
 ---
 title: "ECMAScript"
 date: 2019-10-08T18:30:20+02:00
-draft: true
+draft: false
+weight: 35
 ---
 
 ## Versions
