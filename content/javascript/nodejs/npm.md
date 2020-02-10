@@ -6,6 +6,15 @@ draft: false
 
 [npmjs.com](https://www.npmjs.com/)
 
+## Install & update
+
+```bash
+npm cache clean -f
+npm install -g npm
+npm -v
+npm update -g
+```
+
 ## Configuration
 
 - List registries: `npm config list registry`
