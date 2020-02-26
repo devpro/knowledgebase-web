@@ -19,7 +19,29 @@ See [concourse-ci.org](https://concourse-ci.org/), [GitHub](https://github.com/c
 
 Start with the [official documentation](https://concourse-ci.org/docs.html).
 
-Take a look at the [Resource Types](https://resource-types.concourse-ci.org/).
+## Key concepts
+
+### Functionalities
+
+- Interesting replies on stackoverflow:
+  - [Run docker-compose](https://stackoverflow.com/questions/37919989/concourse-ci-how-to-run-functional-tests)
+
+### Optimization
+
+- Interesting replies on stackoverflow:
+  - [Leverage Docker image cache](https://stackoverflow.com/questions/44475165/concourse-ci-leverage-docker-image-cache)
+
+### Resources
+
+- Official documentation:
+  - [Resources](https://concourse-ci.org/resources.html)
+  - [Resource Types](https://resource-types.concourse-ci.org/)
+    - [Implementing a Resource Type](https://concourse-ci.org/implementing-resource-types.html)
+    - [Marketplace](https://resource-types.concourse-ci.org/)
+- Interesting replies on stackoverflow:
+  - [How to pass job's output to a different job](https://stackoverflow.com/questions/42634934/concourse-how-to-pass-jobs-output-to-a-different-job)
+  - [Why does Concourse `get` a resource after `put`ing it?](https://stackoverflow.com/questions/38964299/why-does-concourse-get-a-resource-after-puting-it)
+  - [Difference between PUT and OUTPUT steps in Concourse](https://stackoverflow.com/questions/59142135/difference-between-put-and-output-steps-in-concourse)
 
 ### Quick start
 
@@ -44,7 +66,7 @@ To go further, feel free to have a look at [devpro/concourse-samples](https://gi
 
 ### Tutorials
 
-- [Concourse Tutorial by Stark & Wayne](https://concoursetutorial.com/)
+- [Concourse Tutorial by Stark & Wayne](https://concoursetutorial.com/) ([GitHub](https://github.com/starkandwayne/concourse-tutorial/))
 - [Using Concourse CI/CD to publish Helm charts to ChartMuseum and report results to Slack (part #1)](https://medium.com/aptomi/using-concourse-ci-cd-to-publish-helm-charts-to-chartmuseum-and-report-results-to-slack-part-1-19d64dc7394b) - Feb 19, 2019
 
 ### Roadmap

@@ -13,6 +13,8 @@ weight: 77
 
 [Configure a test run](https://github.com/microsoft/vstest-docs/blob/master/docs/configure.md)
 
+[Configure unit tests by using a .runsettings file](https://docs.microsoft.com/en-us/visualstudio/test/configure-unit-tests-by-using-a-dot-runsettings-file)
+
 + interesting change brought by [PR #2128](https://github.com/microsoft/vstest/pull/2128)
 
 ```xml
