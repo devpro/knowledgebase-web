@@ -62,6 +62,7 @@ To go further, feel free to have a look at [devpro/concourse-samples](https://gi
 - [A Pivotal Introduction to Concourse CI](https://www.youtube.com/watch?v=0bi_EWzhPvs&amp=&feature=youtu.be) - October 2, 2019
 - [Concourse CI 102 - Taylor Silva & Scott Foerster, Pivotal](https://www.youtube.com/watch?v=H-4pvC7t2AI) - Sep 19, 2019
 - [Concourse, Spinnaker, Cloud Foundry, Oh My! Creating Sophisticated Deployment Workflows - Cameron Stewart](https://www.slideshare.net/Pivotal/concourse-spinnaker-cloud-foundry-oh-my-creating-sophisticated-deployment-workflows-cameron-stewart) - Jun 17, 2019
+- [Concourse ❤ Container Runtime - Topher Bullock, Pivotal](https://www.youtube.com/watch?v=NrYIt2cQZkg) - Apr 27, 2018
 - Introduction (French): [CD meetup](https://www.youtube.com/watch?v=IytJAamVdCs), [Devoxx](https://www.youtube.com/watch?v=moiSC3gmCew), [Paris Container Day](https://www.youtube.com/watch?v=Qv9FsIlyN-U) ([GitHub](https://github.com/Kehrlann/concourse-demo)) - March 22, 2018
 
 ### Tutorials
