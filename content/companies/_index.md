@@ -12,6 +12,7 @@ pre: "<i class='fa fa-mail-bulk'></i> "
 
 ## General
 
+- [Bitnami](https://bitnami.com/)
 - [Datadog](https://www.datadoghq.com/)
 - [HashiCorp](https://www.hashicorp.com/)
   - [Consul](https://www.consul.io/)

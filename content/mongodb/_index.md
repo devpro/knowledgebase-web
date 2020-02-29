@@ -8,7 +8,7 @@ pre: "<i class='fa fa-leaf'></i> "
 
 MongoDB is a cross-platform document-oriented database technology, part of the NoSQL family, storing data in a JSON-like format.
 
-See [mongodb.com](https://www.mongodb.com/), [GitHub](https://github.com/mongodb), [Twitter](https://twitter.com/MongoDB).
+See [mongodb.com](https://www.mongodb.com/), [GitHub](https://github.com/mongodb), [Twitter](https://twitter.com/MongoDB), [Developer Community Forums](https://community.mongodb.com/).
 
 ## Content
 

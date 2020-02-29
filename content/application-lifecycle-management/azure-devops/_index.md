@@ -7,7 +7,7 @@ weight: 10
 
 Azure DevOps, previously known as VSTS (Visual Studio Team Services), is the application lifecycle platform from Microsoft.
 
-See [Documentation](https://docs.microsoft.com/en-us/azure/devops/pipelines/).
+See [Documentation](https://docs.microsoft.com/en-us/azure/devops/pipelines/), [Developer Community](https://developercommunity.visualstudio.com/spaces/21/index.html).
 
 ## Content
 
