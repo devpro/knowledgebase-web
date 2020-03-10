@@ -46,6 +46,10 @@ See the documentation on [docs.microsoft.com](https://docs.microsoft.com/en-us/a
 
 - [ASP.NET Core Logging with Azure App Service and Serilog](https://devblogs.microsoft.com/aspnet/asp-net-core-logging/)
 
+### Dispose
+
+- [Four ways to dispose IDisposables in ASP.NET Core](https://andrewlock.net/four-ways-to-dispose-idisposables-in-asp-net-core/)
+
 ### Performance
 
 - [ASP.NET Core: Saturating 10GbE at 7+ million request/s](https://www.ageofascent.com/2019/02/04/asp-net-core-saturating-10gbe-at-7-million-requests-per-second/)

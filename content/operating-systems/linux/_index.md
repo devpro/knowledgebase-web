@@ -8,3 +8,10 @@ weight: 50
 ## Content
 
 {{% children sort="Name" %}}
+
+## Shared components
+
+- systemd
+- journald
+- firewalld
+- ip
