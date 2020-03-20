@@ -48,6 +48,7 @@ A [Services](https://kubernetes.io/docs/concepts/services-networking/service/) i
 - [List](https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU/edit#gid=0) from [@kubernauts](https://twitter.com/kubernauts)
 - [Game of Pods](https://kodekloud.com/p/game-of-pods)
 - [awesome-kubernetes curated list](https://ramitsurana.github.io/awesome-kubernetes/)
+- [Podcast](https://kubernetespodcast.com/)
 
 ### Posts
 
@@ -75,9 +76,18 @@ A [Services](https://kubernetes.io/docs/concepts/services-networking/service/) i
 
 ### Recipes
 
+### Monitoring
+
+- [The Complete Guide to Kubernetes Monitoring by sematext](https://sematext.com/guides/kubernetes-monitoring/)
+
 #### Service Mesh
 
 - [Kubernetes Service Mesh: A Comparison of Istio, Linkerd and Consul](https://platform9.com/blog/kubernetes-service-mesh-a-comparison-of-istio-linkerd-and-consul/)
+- [Magalix Blog: What Is A Service Mesh?](https://www.magalix.com/blog/what-is-a-service-mesh) - Mar 10, 2020
+
+#### Experiments
+
+- [NTP in a Kubernetes cluster](https://tech.goglides.com/2020/03/09/manage-ntp-using-kubernetes/)
 
 ### Samples
 

@@ -2,6 +2,7 @@
 title: "Fluentd"
 date: 2020-02-29T16:25:03+01:00
 draft: false
+weight: 35
 ---
 
 > Fluentd is an open source data collector for unified logging layer. (It) allows you to unify data collection and consumption for a better use and understanding of data.
