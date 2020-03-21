@@ -14,11 +14,13 @@ See: [nuget.org](https://www.nuget.org/), [Documentation](https://docs.microsoft
 Name | Website | Source
 ---- | ------- | ------
 AutoMapper | [automapper.org](https://automapper.org/) |
-FluentValidation | [fluentvalidation.net](https://fluentvalidation.net/) |
-Selenium WebDriver | |
-Moq | | [GitHub](https://github.com/Moq/moq4)
-xUnit | | [GitHub](https://github.com/xunit/xunit)
 FluentAssertions | [fluentassertions.com](http://www.fluentassertions.com/) |
+FluentValidation | [fluentvalidation.net](https://fluentvalidation.net/) |
+ImageSharp | [sixlabors.com](https://docs.sixlabors.com/articles/ImageSharp/GettingStarted.html) | [GitHub](https://github.com/SixLabors/ImageSharp)
+MediatR | | [GitHUb](https://github.com/jbogard/MediatR)
+Moq | | [GitHub](https://github.com/Moq/moq4)
+Selenium WebDriver | |
+xUnit | | [GitHub](https://github.com/xunit/xunit)
 
 ## NuGet CLI
 

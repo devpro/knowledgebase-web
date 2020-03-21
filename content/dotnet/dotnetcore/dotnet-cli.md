@@ -13,3 +13,7 @@ See the documentation on [docs.microsoft.com](https://docs.microsoft.com/en-us/d
 
 - [dotnet test](https://docs.microsoft.com/en-us/dotnet/core/tools/dotnet-test)
   - [Passing runsettings arguments through commandline](https://github.com/Microsoft/vstest-docs/blob/master/docs/RunSettingsArguments.md)
+
+## SDK
+
+- [.NET Core Uninstall Tool](https://docs.microsoft.com/en-us/dotnet/core/additional-tools/uninstall-tool)

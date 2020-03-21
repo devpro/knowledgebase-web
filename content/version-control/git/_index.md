@@ -17,3 +17,7 @@ See [git-scm.com](https://git-scm.com/).
 ### IDE
 
 - [GitKraken](https://www.gitkraken.com/)
+
+### Tools
+
+- [pre-commit](https://pre-commit.com/)
