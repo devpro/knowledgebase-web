@@ -7,17 +7,62 @@ weight: 40
 
 [Cheat Sheet](https://kubernetes.io/docs/reference/kubectl/cheatsheet/)
 
-Padok published an article (in French): [Les commandes à connaître avec Kubectl](https://www.padok.fr/blog/cluster-kubernetes-kubectl).
+## Resources
 
-## Pods
+### Pods
 
 ```bash
-kubectl get pods --namespace kube-system                    # Look at pods on kube-system namespace
-kubectl get pods -A                                         # Get all pods
+# list pods of a specific namespace
+kubectl get pods --namespace kube-system
+# list pods of all namespaces
+kubectl get pods -A
+# get more information about a pod
+kubectl describe pod
+# get log information of a specific pod
+kubectl logs
+# get pod yaml definition
+kubectl get pod -o yaml
 ```
 
-## Clean-up / removal
+### Deployments
 
 ```bash
-kubectl delete -f ./definition.json                   # Delete what was created by a manifest file
+kubectl get deployment
+```
+
+### Services
+
+```bash
+kubectl get services
+```
+
+## Configuration
+
+### ConfigMaps
+
+### Secrets
+
+## Events
+
+```bash
+kubectl get events --sort-by=.metadata.creationTimestamp
+```
+
+## Scale
+
+```bash
+kubectl scale
+```
+
+## Port forwarding
+
+```bash
+kubectl port-forward xxx 8080:80
+```
+
+## Clean-up
+
+```bash
+# delete what was deployed by a manifest file
+kubectl delete -f ./definition.json
 ```

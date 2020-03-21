@@ -46,7 +46,10 @@ A [Services](https://kubernetes.io/docs/concepts/services-networking/service/) i
 ### Learning resources
 
 - [List](https://docs.google.com/spreadsheets/d/10NltoF_6y3mBwUzQ4bcQLQfCE1BWSgUDcJXy-Qp2JEU/edit#gid=0) from [@kubernauts](https://twitter.com/kubernauts)
-- [Game of Pods](https://kodekloud.com/p/game-of-pods)
+- [KodeKloud](https://kodekloud.com)
+  - [Game of Pods](https://kodekloud.com/p/game-of-pods)
+  - [Kubernetes for Beginners - Docker Introduction in 15 Minutes](https://www.youtube.com/watch?v=rmf04ylI2K0)
+  - [Kubernetes Concepts Explained in 9 minutes!](https://www.youtube.com/watch?v=QJ4fODH6DXI)
 - [awesome-kubernetes curated list](https://ramitsurana.github.io/awesome-kubernetes/)
 - [Podcast](https://kubernetespodcast.com/)
 

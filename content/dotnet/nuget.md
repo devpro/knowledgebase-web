@@ -14,6 +14,7 @@ See: [nuget.org](https://www.nuget.org/), [Documentation](https://docs.microsoft
 Name | Website | Source
 ---- | ------- | ------
 AutoMapper | [automapper.org](https://automapper.org/) |
+Dapper | [dapper-tutorial.net](https://dapper-tutorial.net/dapper) | [GitHub](https://github.com/StackExchange/Dapper)
 FluentAssertions | [fluentassertions.com](http://www.fluentassertions.com/) |
 FluentValidation | [fluentvalidation.net](https://fluentvalidation.net/) |
 ImageSharp | [sixlabors.com](https://docs.sixlabors.com/articles/ImageSharp/GettingStarted.html) | [GitHub](https://github.com/SixLabors/ImageSharp)

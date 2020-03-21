@@ -34,3 +34,7 @@ Additional readings:
 - Bitnami [Secure Kubernetes Services With Ingress, TLS And Let's Encrypt](https://docs.bitnami.com/kubernetes/how-to/secure-kubernetes-services-with-ingress-tls-letsencrypt/)
 - Microsoft [Create an HTTPS ingress controller on Azure Kubernetes Service (AKS)](https://docs.microsoft.com/en-us/azure/aks/ingress-tls)
 - cert-manager [Securing Ingress Resources](https://cert-manager.io/docs/usage/ingress/)
+
+## Chaos Engineering
+
+- [pingcap/chaos-mesh](https://github.com/pingcap/chaos-mesh)
