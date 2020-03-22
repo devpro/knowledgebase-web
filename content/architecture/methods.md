@@ -44,6 +44,10 @@ weight: 50
 
 - [TDD](https://en.wikipedia.org/wiki/Test-driven_development) (Test Driven Development)
 
+- ITIL
+
+  - [ITIL 4: An A – Z Guide By Joe the IT Guy](https://www.joetheitguy.com/itil-4-an-a-z-guide/) - Mar 21, 2019
+
 ## Deployments
 
 - Canary release

@@ -22,6 +22,14 @@ weight: 10
 
 [YAML schema reference](https://docs.microsoft.com/fr-fr/azure/devops/pipelines/yaml-schema)
 
+### Templates
+
+[Template types & usage](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/templates)
+
+### Variables
+
+[Define variables](https://docs.microsoft.com/en-us/azure/devops/pipelines/process/variables)
+
 ## Recipes
 
 ### Code coverage
