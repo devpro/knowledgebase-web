@@ -5,6 +5,10 @@ draft: false
 weight: 80
 ---
 
+## 1.18
+
+[Kubernetes 1.18: Fit & Finish](https://kubernetes.io/blog/2020/03/25/kubernetes-1-18-release-announcement/)
+
 ## 1.17
 
 Official annoucement [Stability](https://kubernetes.io/blog/2019/12/09/kubernetes-1-17-release-announcement/) _December 09, 2019_
