@@ -26,6 +26,10 @@ set PATH=D:\Programs\php-7.2.4-nts-Win32-VC15-x64;%PATH%
 c:\bin\RunHiddenConsole.exe D:\Programs\php-7.2.4-nts-Win32-VC15-x64\php-cgi.exe -b 127.0.0.1:9123
 ```
 
+### Libraries
+
+- [Pimple](https://pimple.symfony.com/): A simple PHP Dependency Injection Container
+
 ### Tools
 
 #### phpdbg

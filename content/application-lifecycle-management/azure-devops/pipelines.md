@@ -20,7 +20,8 @@ weight: 10
 
 ### Definition
 
-[YAML schema reference](https://docs.microsoft.com/fr-fr/azure/devops/pipelines/yaml-schema)
+* [YAML schema reference](https://docs.microsoft.com/fr-fr/azure/devops/pipelines/yaml-schema)
+* [Classic Editor VS. YAML](https://www.marcusfelling.com/blog/2020/azure-pipelines-classic-editor-vs-yaml/)
 
 ### Templates
 

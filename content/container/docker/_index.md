@@ -7,11 +7,7 @@ weight: 30
 
 > Docker is an open platform for developers and sysadmins to build, ship, and run distributed applications, whether on laptops, data center VMs, or the cloud.
 
-See [docker.com](https://www.docker.com/), [Documentation](https://docs.docker.com/), [Hub](https://hub.docker.com/).
-
-## Content
-
-{{% children sort="Name" %}}
+See [docker.com](https://www.docker.com/), [Documentation](https://docs.docker.com/), [Hub](https://hub.docker.com/), [Cheatsheet](https://github.com/devpro/everyday-cheatsheets/blob/master/docs/docker.md).
 
 ## Learn
 

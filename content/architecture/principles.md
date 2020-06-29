@@ -11,8 +11,8 @@ weight: 60
 
 - [SOLID](https://en.wikipedia.org/wiki/SOLID)
   - Single responsibility principle
-  - Open–closed principle
-  - Liskov substitution principle
+  - [Open–closed principle](https://en.wikipedia.org/wiki/Open%E2%80%93closed_principle)
+  - [Liskov substitution principle](https://en.wikipedia.org/wiki/Liskov_substitution_principle)
   - Interface segregation principle
   - Dependency inversion principle
 

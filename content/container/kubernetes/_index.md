@@ -107,6 +107,11 @@ A [Services](https://kubernetes.io/docs/concepts/services-networking/service/) i
 TODO :
 
 - [Preparing for the Certified Kubernetes Administrator (CKA) Program](https://dzone.com/articles/preparing-for-the-certified-kubernetes-administrat?edition=542303&utm_source=Zone%20Newsletter&utm_medium=email&utm_campaign=cloud%202019-12-09)
+- [Kubernetes Upgrade: The Definitive Guide to Do-It-Yourself](https://dzone.com/articles/kubernetes-upgrade-the-definitive-guide-to-do-it-yourself?edition=595298)
+
+#### Certified Kubernetes Application Developer (CKAD)
+
+- [The Important things I know which helped me pass the CKAD exam](https://medium.com/@vishwas76/the-important-things-i-know-which-helped-me-pass-the-ckad-exam-d1f460aff1c2)
 
 ## Ecosystem
 
