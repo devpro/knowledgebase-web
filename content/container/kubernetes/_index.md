@@ -155,10 +155,6 @@ Also see [Empowering cloud-native developers on Kubernetes anywhere](https://clo
 
 See [pivotal.io](https://pivotal.io/platform/pivotal-container-service).
 
-### Rancher
-
-[rancher.com](https://rancher.com/)
-
 ### Deployment examples
 
 - [cmeiklejohn/kubernetes-hello-world-example](https://github.com/cmeiklejohn/kubernetes-hello-world-example)
