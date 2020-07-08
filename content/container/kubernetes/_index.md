@@ -5,10 +5,6 @@ draft: false
 weight: 40
 ---
 
-> Kubernetes (K8s) is an open-source system for automating deployment, scaling, and management of containerized applications.
-
-See [kubernetes.io](https://kubernetes.io/), [Documentation](https://kubernetes.io/docs/home/), [cheatsheet](https://devpro.github.io/kubernetes/cheatsheet.html).
-
 ## Content
 
 {{% children sort="Name" %}}
@@ -16,32 +12,6 @@ See [kubernetes.io](https://kubernetes.io/), [Documentation](https://kubernetes.
 ## Learn
 
 ### Backgroung
-
-Kubernetes was started by Google and, with its v1.0 release in July 2015, Google donated it to the [Cloud Native Computing Foundation (CNCF)](https://www.cncf.io/).
-
-See Microsoft [What is Kubernetes?](https://aka.ms/k8slearning).
-
-### Key elements
-
-Pods
-
-Controllers
-
-Deployments
-
-A [Services](https://kubernetes.io/docs/concepts/services-networking/service/) is an "abstract way to expose an application running on a set of Pods as a network service".
-
-#### External traffic
-
-- [Kubernetes NodePort vs LoadBalancer vs Ingress? When should I use what?](https://medium.com/google-cloud/kubernetes-nodeport-vs-loadbalancer-vs-ingress-when-should-i-use-what-922f010849e0)
-
-### API
-
-- [Overview](https://kubernetes.io/docs/reference/generated/kubernetes-api/v1.15/)
-
-### Learning path
-
-- [Microsoft](https://azure.microsoft.com/en-us/resources/kubernetes-learning-path/)
 
 ### Learning resources
 
@@ -67,8 +37,6 @@ A [Services](https://kubernetes.io/docs/concepts/services-networking/service/) i
 #### Online free training
 
 - :heavy_check_mark: Intruqt [Kubernetes concepts](https://instruqt.com/public/tracks/kubernetes-concepts)
-- Microsoft [Introduction to Azure Kubernetes Service](https://docs.microsoft.com/en-us/learn/modules/intro-to-azure-kubernetes-service/index)
-- Linux Foundation [Introduction to Kubernetes (LFS158)](https://training.linuxfoundation.org/training/introduction-to-kubernetes/)
 - Cognitive Class [Container & Kubernetes Essentials with IBM Cloud](https://cognitiveclass.ai/courses/kubernetes-course)
 - Udacity [Scalable Microservices with Kubernetes](https://www.udacity.com/course/scalable-microservices-with-kubernetes--ud615)
 
@@ -112,48 +80,6 @@ TODO :
 #### Certified Kubernetes Application Developer (CKAD)
 
 - [The Important things I know which helped me pass the CKAD exam](https://medium.com/@vishwas76/the-important-things-i-know-which-helped-me-pass-the-ckad-exam-d1f460aff1c2)
-
-## Ecosystem
-
-### Tools
-
-- [k14s](https://k14s.io/)
-
-### Packaging
-
-#### kpack
-
-[Video TGI Kubernetes 091](https://www.youtube.com/watch?v=4zkRX9PSJ5k&feature=youtu.be)
-
-## Managed environment
-
-### Google Kubernetes Engine (GKE)
-
-> Reliable, efficient, and secured way to run Kubernetes clusters
-
-See [cloud.google.com](https://cloud.google.com/kubernetes-engine/).
-
-Learning: [Getting Started by Coursera](https://www.coursera.org/learn/google-kubernetes-engine).
-
-### Amazon Elastic Kubernetes Service (Amazon EKS)
-
-> Highly available, scalable, and secure Kubernetes service
-
-[aws.amazon.com](https://aws.amazon.com/eks/)
-
-### Azure Kubernetes Service (AKS)
-
-> Highly available, secure, and fully managed Kubernetes service
-
-See [azure.microsoft.com](https://azure.microsoft.com/en-us/services/kubernetes-service/).
-
-Also see [Empowering cloud-native developers on Kubernetes anywhere](https://cloudblogs.microsoft.com/opensource/2019/11/19/microsoft-kubecon-2019-announcements/) as an annoucement on KubeCon 2019 (November).
-
-### Pivotal Container Service (PKS)
-
-> Pivotal Container Service (PKS) is an enterprise Kubernetes platform, architected for rapid results, scaling, and reliability on any infrastructure.
-
-See [pivotal.io](https://pivotal.io/platform/pivotal-container-service).
 
 ### Deployment examples
 
