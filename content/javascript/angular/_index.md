@@ -15,29 +15,6 @@ See [angular.io](https://angular.io/), [API](https://angular.io/api).
 
 ## Learn
 
-### Quickstart
-
-- [angular.io/guide/quickstart](https://angular.io/guide/quickstart)
-
-#### 5 minutes tour
-
-```bash
-# create the application
-ng new
-
-# launch locally (open http://localhost:4200)
-ng serve --open
-
-# add material theme
-ng add @angular/material
-
-# create the first module
-ng generate module layout
-
-# create the home page component
-ng generate component layout/home
-```
-
 ### Training
 
 - [Ninja Squad](https://ninja-squad.com/formations)
